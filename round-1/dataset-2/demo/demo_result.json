@@ -1,0 +1,16 @@
+{
+  "kind": "code_demo",
+  "id": "art_gKuU_pirIakG",
+  "name": "gen_art_dataset_2",
+  "type": "code",
+  "iteration": 1,
+  "title": "Supplementary OWID Datasets for Inequality-Democratic Resilience Robustness Checks",
+  "summary": "Successfully collected 3 supplementary panel datasets covering 1990-2022: (1) Polity V democracy index (5,242 country-year observations, -10 to +10 scale), (2) Oil rents as % of GDP from World Bank WDI (7,588 observations, created binary oil_exporter indicator using >20% GDP threshold), (3) Gini coefficient from World Bank Poverty and Inequality Platform (953 observations, alternative inequality measure). Data validated against exp_sel_data_out.json schema. Output includes full (5.9 MB), mini (4.2 KB, 3 examples/dataset), and preview (3.6 KB, truncated) JSON variants. Missing values: Polity V (39.7%), Oil rents (22.1%), Gini alternative (88.4% due to limited PIP coverage).",
+  "original_path": "/home/adrian/projects/ai-inventor/aii_data/users/admin/runs/run__DHeGw9qQb7B/3_invention_loop/iter_1/gen_art/gen_art_dataset_2",
+  "demo_path": "/home/adrian/projects/ai-inventor/aii_data/users/admin/runs/run__DHeGw9qQb7B/4_gen_paper_repo/_3_gen_art_demo/iter_1/art_gKuU_pirIakG",
+  "out_expected_files": {
+    "notebook": "code_demo.ipynb",
+    "mini_data_file": "mini_demo_data.json"
+  },
+  "notebook_path": "/home/adrian/projects/ai-inventor/aii_data/users/admin/runs/run__DHeGw9qQb7B/4_gen_paper_repo/_3_gen_art_demo/iter_1/art_gKuU_pirIakG/data_code_demo.ipynb"
+}

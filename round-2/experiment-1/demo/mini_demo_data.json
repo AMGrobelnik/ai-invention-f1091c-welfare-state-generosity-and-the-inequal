@@ -1,0 +1,149 @@
+{
+  "datasets": [
+    {
+      "dataset": "owid_welfare_democracy_panel",
+      "examples": [
+        {
+          "input": "{\"country\": \"Colombia\", \"year\": 2012, \"gini_coeff\": 46.29999923706055, \"social_spending_gdp\": 5.690999984741211, \"secondary_edu_enrollment\": 1.0103399753570557, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": 12.625}",
+          "output": "0.6570000052452087",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Mexico\", \"year\": 1996, \"gini_coeff\": 52.91999816894531, \"social_spending_gdp\": 3.367000102996826, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": 2.4019999504089355}",
+          "output": "0.5149999856948853",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Mexico\", \"year\": 2005, \"gini_coeff\": 45.689998626708984, \"social_spending_gdp\": 2.0380001068115234, \"secondary_edu_enrollment\": 0.9794099926948547, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": 6.144999980926514}",
+          "output": "0.7070000171661377",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Mexico\", \"year\": 2006, \"gini_coeff\": 47.099998474121094, \"social_spending_gdp\": 6.260000228881836, \"secondary_edu_enrollment\": 0.9929400086402893, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": 4.26200008392334}",
+          "output": "0.6700000166893005",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Mexico\", \"year\": 1994, \"gini_coeff\": 50.20000076293945, \"social_spending_gdp\": 3.078000068664551, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": 1.0140000581741333}",
+          "output": "0.4740000069141388",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Colombia\", \"year\": 2013, \"gini_coeff\": 51.4900016784668, \"social_spending_gdp\": 13.190999984741211, \"secondary_edu_enrollment\": 1.0101799964904785, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": 7.077000141143799}",
+          "output": "0.6650000214576721",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Mexico\", \"year\": 2008, \"gini_coeff\": 48.189998626708984, \"social_spending_gdp\": 4.539999961853027, \"secondary_edu_enrollment\": 1.0085400342941284, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": 2.1519999504089355}",
+          "output": "0.6420000195503235",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Mexico\", \"year\": 2004, \"gini_coeff\": 50.029998779296875, \"social_spending_gdp\": 5.953999996185303, \"secondary_edu_enrollment\": 0.9738500118255615, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": 4.021999835968018}",
+          "output": "0.7070000171661377",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Mexico\", \"year\": 2012, \"gini_coeff\": 46.689998626708984, \"social_spending_gdp\": 4.585999965667725, \"secondary_edu_enrollment\": 0.9998599886894226, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": 2.631999969482422}",
+          "output": "0.6489999890327454",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Colombia\", \"year\": 2013, \"gini_coeff\": 51.29999923706055, \"social_spending_gdp\": 7.077000141143799, \"secondary_edu_enrollment\": 1.0101799964904785, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": 5.790999889373779}",
+          "output": "0.6650000214576721",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Mexico\", \"year\": 2016, \"gini_coeff\": 49.34000015258789, \"social_spending_gdp\": 4.315000057220459, \"secondary_edu_enrollment\": 1.013350009918213, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": 3.1649999618530273}",
+          "output": "0.6380000114440918",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Colombia\", \"year\": 2018, \"gini_coeff\": 45.099998474121094, \"social_spending_gdp\": 6.125999927520752, \"secondary_edu_enrollment\": 1.011430025100708, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": 13.687999725341797}",
+          "output": "0.6669999957084656",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Malawi\", \"year\": 2011, \"gini_coeff\": 45.20000076293945, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5210000276565552",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"El Salvador\", \"year\": 2018, \"gini_coeff\": 38.61000061035156, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 0.9946399927139282, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.6430000066757202",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Nigeria\", \"year\": 2013, \"gini_coeff\": 35.5099983215332, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5289999842643738",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Indonesia\", \"year\": 1996, \"gini_coeff\": 27.0, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.19300000369548798",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Georgia\", \"year\": 2012, \"gini_coeff\": 41.130001068115234, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5139999985694885",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Bangladesh\", \"year\": 2016, \"gini_coeff\": 48.20000076293945, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.27900001406669617",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Indonesia\", \"year\": 2011, \"gini_coeff\": 34.099998474121094, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.000249981880188, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.6959999799728394",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Colombia\", \"year\": 2005, \"gini_coeff\": 52.279998779296875, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.0351699590682983, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5450000166893005",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        }
+      ]
+    }
+  ]
+}
