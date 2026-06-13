@@ -1,0 +1,15 @@
+{
+  "title": "Welfare Generosity and Inequality-Democracy Relationship: Post-1990 Evidence",
+  "summary": "Successfully created a publication-ready LaTeX paper with BibTeX from the provided paper text and 4 figures. The paper is 21 pages long and includes: (1) Abstract and introduction with causal identification challenges, (2) Literature review on inequality, welfare states, and democratic resilience, (3) Hypotheses and theoretical framework with interactive specifications, (4) Data and methodology section with comprehensive missing data diagnostics, (5) Results with main findings, mediation analysis, robustness checks, and heterogeneous effects, (6) Discussion of findings, limitations, and policy implications, (7) Conclusion with contributions and future research directions, (8) Appendices with variable definitions and missing data diagnostics. The paper was compiled to PDF using pdflatex and bibtex. All 4 figures from available_figures were included: fig1 (conceptual framework), fig2 (missing data patterns), fig3 (interaction effect), and fig4 (regional heterogeneity). The references.bib file was created with 16 BibTeX entries covering all cited works. Verification confirmed: 4 includegraphics commands in paper.tex matching 4 available figures, paper.pdf successfully created (21 pages, 5.96MB), and no missing citations (??) in the PDF.",
+  "out_expected_files": {
+    "paper_tex_path": "paper.tex",
+    "paper_pdf_path": "paper.pdf",
+    "references_bib_path": "references.bib",
+    "figure_paths": [
+      "figures/fig1_v0.jpg",
+      "figures/fig2_v0.jpg",
+      "figures/fig3_v0.jpg",
+      "figures/fig4_v0.jpg"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+\begin{thebibliography}{xx}
+
+\harvarditem[Acemoglu et~al.]{Acemoglu, Naidu, Restrepo \harvardand\
+  Robinson}{2019}{Acemoglu2019}
+Acemoglu, Daron, Suresh Naidu, Pascual Restrepo \harvardand\ James~A. Robinson.
+  2019.
+\newblock ``Democracy, Redistribution, and Inequality.'' {\em Handbook of
+  Income Distribution} 2:1885--1966.
+
+\harvarditem{Arellano}{1987}{Arellano1987}
+Arellano, Manuel. 1987.
+\newblock ``Computing robust standard errors for within-groups estimators.''
+  {\em Oxford Bulletin of Economics and Statistics} 49(4):431--434.
+
+\harvarditem{Balli \harvardand\ Sorensen}{2013}{Balli2013}
+Balli, Hatice~Ozer \harvardand\ Bent~E. Sorensen. 2013.
+\newblock ``Interaction effects in econometrics.'' {\em Empirical Economics}
+  45(1):583--603.
+
+\harvarditem[Brambor, Clark \harvardand\ Golder]{Brambor, Clark \harvardand\
+  Golder}{2006}{Brambor2006}
+Brambor, Thomas, William~Roberts Clark \harvardand\ Matt Golder. 2006.
+\newblock ``Understanding interaction models: Improving empirical analyses.''
+  {\em Political Analysis} 14(1):63--82.
+
+\harvarditem{Cameron \harvardand\ Miller}{2015}{Cameron2015}
+Cameron, A.~Colin \harvardand\ Douglas~L. Miller. 2015.
+\newblock ``A practitioner's guide to cluster-robust inference.'' {\em Journal
+  of Human Resources} 50(2):317--372.
+
+\harvarditem[Cameron, Gelbach \harvardand\ Miller]{Cameron, Gelbach
+  \harvardand\ Miller}{2008}{Cameron2008}
+Cameron, A.~Colin, Jonah~B. Gelbach \harvardand\ Douglas~L. Miller. 2008.
+\newblock ``Bootstrap-based improvements for inference with clustered errors.''
+  {\em Review of Economics and Statistics} 90(3):414--427.
+
+\harvarditem[Coppedge et~al.]{Coppedge, Gerring, Knutsen, Lindberg, Teorell,
+  Altman, Bernhard, Fish, Glynn, Hicken et~al.}{2024}{Coppedge2024}
+Coppedge, Michael, John Gerring, Carl~Henrik Knutsen, Staffan~I. Lindberg, Jan
+  Teorell, David Altman, Michael Bernhard, M.~Steven Fish, Adam Glynn, Allen
+  Hicken et~al. 2024.
+\newblock ``Varieties of Democracy (V-Dem) Project.'' {\em V-Dem Working Paper}
+  .
+\newblock Version 14.
+
+\harvarditem{Hausman}{1978}{Hausman1978}
+Hausman, Jerry~A. 1978.
+\newblock ``Specification tests in econometrics.'' {\em Econometrica}
+  46(6):1251--1271.
+
+\harvarditem[Huber, Niedzwiecki \harvardand\ Pribble]{Huber, Niedzwiecki
+  \harvardand\ Pribble}{2019}{Huber2019}
+Huber, Evelyne, Sara Niedzwiecki \harvardand\ Jennifer Pribble. 2019.
+\newblock ``Social Policy Expansion and Democratic Resilience in Latin
+  America.'' {\em Journal of Politics in Latin America} 11(2):3--32.
+
+\harvarditem[Imai, Keele \harvardand\ Tingley]{Imai, Keele \harvardand\
+  Tingley}{2010}{Imai2010}
+Imai, Kosuke, Luke Keele \harvardand\ Dustin Tingley. 2010.
+\newblock ``A general approach to causal mediation analysis.'' {\em
+  Psychological Methods} 15(4):309--334.
+
+\harvarditem{Knutsen}{2020}{Knutsen2020}
+Knutsen, Carl~Henrik. 2020.
+\newblock ``Inequality and democratic backsliding.'' {\em Democratization}
+  27(5):837--855.
+
+\harvarditem{{OECD}}{2025}{OECD2025}
+{OECD}. 2025.
+\newblock Social Expenditure Database (SOCX). Technical report Organisation for
+  Economic Co-operation and Development.
+\newblock Version 2025-02-25.
+
+\harvarditem{{UNU-WIDER}}{2024}{UNUWIDER2024}
+{UNU-WIDER}. 2024.
+\newblock World Income Inequality Database (WIID). Technical report United
+  Nations University World Institute for Development Economics Research.
+\newblock Version 2024-04-22.
+
+\harvarditem{Wooldridge}{2002}{Wooldridge2002}
+Wooldridge, Jeffrey~M. 2002.
+\newblock {\em Econometric Analysis of Cross Section and Panel Data}.
+\newblock Cambridge, MA:  MIT Press.
+
+\harvarditem{{World Bank}}{2024}{WorldBank2024}
+{World Bank}. 2024.
+\newblock Education Statistics (EdStats). Technical report World Bank.
+\newblock Version 2024-11-04.
+
+\end{thebibliography}
