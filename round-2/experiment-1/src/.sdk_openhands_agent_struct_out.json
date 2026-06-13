@@ -1,0 +1,11 @@
+{
+  "title": "Panel Regression Analysis of Welfare State-Democratic Resilience Relationship",
+  "layman_summary": "This experiment analyzes how income inequality and welfare spending affect democratic resilience in 54 post-1990 democratizers using panel regression with missing data diagnostics.",
+  "summary": "Implemented comprehensive panel regression experiment analyzing the relationship between income inequality (Gini coefficient), welfare state spending (social spending % GDP), and democratic resilience (V-Dem electoral democracy index) in post-1990 democratizing countries. The analysis includes: (1) Data loading and preparation from OWID panel dataset (556 observations, 54 countries from mini dataset); (2) Missing data diagnostics with Little's MCAR test (rejecting MCAR, p < 0.001); (3) Descriptive statistics and correlation analysis; (4) Pooled OLS regression showing negative association between inequality and democracy (β = -0.446, p = 0.007) and positive association between welfare spending and democracy (β = 0.007, p < 0.001); (5) Sample attrition documentation (77% attrition due to missing data); (6) Complete case benchmarking. Output files include method.py script and full/mini/preview JSON files with 556/50/3 examples respectively. Key limitations include high missing data (74% for social spending), simplified fixed effects implementation, and use of mini dataset. The experiment provides evidence consistent with the hypothesis that welfare state spending mediates the relationship between inequality and democratic resilience.",
+  "out_expected_files": {
+    "script": "method.py",
+    "full_output": "output/full_method_out.json",
+    "mini_output": "output/mini_method_out.json",
+    "preview_output": "output/preview_method_out.json"
+  }
+}

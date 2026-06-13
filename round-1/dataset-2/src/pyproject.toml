@@ -1,0 +1,18 @@
+[project]
+name = "gen_art_dataset_2"
+version = "0.1.0"
+requires-python = ">=3.12,<3.13"
+
+[dependencies]
+# Core data processing
+pandas = "==2.3.3"
+numpy = "==2.2.6"
+
+# Logging
+loguru = ">=0.7.2"
+
+# JSON handling (standard library)
+# json - standard library
+
+# Path handling (standard library)
+# pathlib - standard library

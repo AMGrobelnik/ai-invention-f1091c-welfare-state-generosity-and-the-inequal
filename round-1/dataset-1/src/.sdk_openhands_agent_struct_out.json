@@ -1,0 +1,15 @@
+{
+  "title": "OWID Panel Data for Welfare State-Democratic Resilience Analysis",
+  "layman_summary": "Panel dataset of 55 post-1990 democratizer countries (1990-2022) with V-Dem electoral democracy index, Gini coefficient, social spending % GDP, and secondary education enrollment for analyzing welfare state-democratic resilience relationships.",
+  "summary": "Merged OWID panel dataset with 5,564 country-year observations across 55 post-1990 democratizer countries (1990-2022). Variables: V-Dem electoral democracy index (dependent), Gini coefficient (independent), social spending % GDP (mediator), secondary education enrollment rate (moderator), V-Dem regime classification, and lagged social spending (t-1). Sources: V-Dem Project (garden/democracy/2024-03-07), UNU-WIDER WIID (garden/unu_wider/2024-04-22), OECD SOCX (garden/oecd/2025-02-25), World Bank EdStats (garden/wb/2024-11-04). Missing values: Gini 20%, social spending 74%, education 58%.",
+  "out_expected_files": {
+    "script": "process_data_clean.py",
+    "datasets": [
+      {
+        "full": ["full_data_out.json"],
+        "mini": "mini_data_out.json",
+        "preview": "preview_data_out.json"
+      }
+    ]
+  }
+}

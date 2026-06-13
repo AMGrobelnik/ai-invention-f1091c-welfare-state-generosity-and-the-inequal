@@ -1,0 +1,26 @@
+{
+  "dataset": "welfare_democracy_panel_regression",
+  "examples": [
+    {
+      "input": "{\"country\": \"Colombia\", \"year\": 2012, \"gini_coeff\": 46.29999923706055, \"social_spending_gdp\": 5.690999984741211, \"secondary_edu_enrollment\": 1.0103399753570557, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": 12.625}",
+      "output": "0.6570000052452087",
+      "metadata_fold": 0,
+      "metadata_task_type": "regression",
+      "metadata_n_features": 6
+    },
+    {
+      "input": "{\"country\": \"Malawi\", \"year\": 2011, \"gini_coeff\": 45.20000076293945, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+      "output": "0.5210000276565552",
+      "metadata_fold": 0,
+      "metadata_task_type": "regression",
+      "metadata_n_features": 6
+    },
+    {
+      "input": "{\"country\": \"Mexico\", \"year\": 1996, \"gini_coeff\": 52.91999816894531, \"social_spending_gdp\": 3.367000102996826, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": 2.4019999504089355}",
+      "output": "0.5149999856948853",
+      "metadata_fold": 0,
+      "metadata_task_type": "regression",
+      "metadata_n_features": 6
+    }
+  ]
+}

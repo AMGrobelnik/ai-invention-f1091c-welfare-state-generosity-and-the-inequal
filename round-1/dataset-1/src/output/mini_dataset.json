@@ -1,0 +1,5564 @@
+{
+  "examples": [
+    {
+      "country": "Colombia",
+      "year": 2012,
+      "vdem_index": 0.6570000052452087,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.29999923706055,
+      "social_spending_gdp": 5.690999984741211,
+      "secondary_edu_enrollment": 1.0103399753570557,
+      "social_spending_gdp_lag1": 12.625
+    },
+    {
+      "country": "Malawi",
+      "year": 2011,
+      "vdem_index": 0.5210000276565552,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1996,
+      "vdem_index": 0.5149999856948853,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.91999816894531,
+      "social_spending_gdp": 3.367000102996826,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 2.4019999504089355
+    },
+    {
+      "country": "El Salvador",
+      "year": 2018,
+      "vdem_index": 0.6430000066757202,
+      "vdem_regime": 2.0,
+      "gini_coeff": 38.61000061035156,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9946399927139282,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Nigeria",
+      "year": 2013,
+      "vdem_index": 0.5289999842643738,
+      "vdem_regime": 2.0,
+      "gini_coeff": 35.5099983215332,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 1996,
+      "vdem_index": 0.19300000369548798,
+      "vdem_regime": 1.0,
+      "gini_coeff": 27.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2012,
+      "vdem_index": 0.5139999985694885,
+      "vdem_regime": 2.0,
+      "gini_coeff": 41.130001068115234,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2005,
+      "vdem_index": 0.7070000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.689998626708984,
+      "social_spending_gdp": 2.0380001068115234,
+      "secondary_edu_enrollment": 0.9794099926948547,
+      "social_spending_gdp_lag1": 6.144999980926514
+    },
+    {
+      "country": "Bangladesh",
+      "year": 2016,
+      "vdem_index": 0.27900001406669617,
+      "vdem_regime": 1.0,
+      "gini_coeff": 48.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 2011,
+      "vdem_index": 0.6959999799728394,
+      "vdem_regime": 2.0,
+      "gini_coeff": 34.099998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.000249981880188,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2005,
+      "vdem_index": 0.5450000166893005,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.279998779296875,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0351699590682983,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2011,
+      "vdem_index": 0.8550000190734863,
+      "vdem_regime": 2.0,
+      "gini_coeff": 31.18000030517578,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2006,
+      "vdem_index": 0.6700000166893005,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.099998474121094,
+      "social_spending_gdp": 6.260000228881836,
+      "secondary_edu_enrollment": 0.9929400086402893,
+      "social_spending_gdp_lag1": 4.26200008392334
+    },
+    {
+      "country": "Taiwan",
+      "year": 2019,
+      "vdem_index": 0.8349999785423279,
+      "vdem_regime": 2.0,
+      "gini_coeff": 30.540000915527344,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "year": 2018,
+      "vdem_index": 0.6740000247955322,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2013,
+      "vdem_index": 0.8059999942779541,
+      "vdem_regime": 2.0,
+      "gini_coeff": 32.4900016784668,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Guatemala",
+      "year": 2000,
+      "vdem_index": 0.5490000247955322,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.599998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.7966799736022949,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Zambia",
+      "year": 1999,
+      "vdem_index": 0.48100000619888306,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 2004,
+      "vdem_index": 0.6980000138282776,
+      "vdem_regime": 2.0,
+      "gini_coeff": 32.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0185400247573853,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "North Macedonia",
+      "year": 2002,
+      "vdem_index": 0.5230000019073486,
+      "vdem_regime": 2.0,
+      "gini_coeff": 33.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2018,
+      "vdem_index": 0.6759999990463257,
+      "vdem_regime": 2.0,
+      "gini_coeff": 36.40999984741211,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Thailand",
+      "year": 1990,
+      "vdem_index": 0.38499999046325684,
+      "vdem_regime": 1.0,
+      "gini_coeff": 50.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2001,
+      "vdem_index": 0.5370000004768372,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9409700036048889,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Gambia",
+      "year": 1994,
+      "vdem_index": 0.20800000429153442,
+      "vdem_regime": 1.0,
+      "gini_coeff": 59.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Zambia",
+      "year": 2012,
+      "vdem_index": 0.5040000081062317,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1994,
+      "vdem_index": 0.4740000069141388,
+      "vdem_regime": 1.0,
+      "gini_coeff": 50.20000076293945,
+      "social_spending_gdp": 3.078000068664551,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 1.0140000581741333
+    },
+    {
+      "country": "Ukraine",
+      "year": 2004,
+      "vdem_index": 0.3790000081062317,
+      "vdem_regime": 1.0,
+      "gini_coeff": 41.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0039399862289429,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2013,
+      "vdem_index": 0.8330000042915344,
+      "vdem_regime": 2.0,
+      "gini_coeff": 35.16999816894531,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.018030047416687,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2012,
+      "vdem_index": 0.8550000190734863,
+      "vdem_regime": 2.0,
+      "gini_coeff": 32.2599983215332,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2003,
+      "vdem_index": 0.734000027179718,
+      "vdem_regime": 2.0,
+      "gini_coeff": 56.29999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2013,
+      "vdem_index": 0.6650000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.4900016784668,
+      "social_spending_gdp": 13.190999984741211,
+      "secondary_edu_enrollment": 1.0101799964904785,
+      "social_spending_gdp_lag1": 7.077000141143799
+    },
+    {
+      "country": "Cape Verde",
+      "year": 2013,
+      "vdem_index": 0.8019999861717224,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9884899854660034,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2008,
+      "vdem_index": 0.6420000195503235,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.189998626708984,
+      "social_spending_gdp": 4.539999961853027,
+      "secondary_edu_enrollment": 1.0085400342941284,
+      "social_spending_gdp_lag1": 2.1519999504089355
+    },
+    {
+      "country": "Indonesia",
+      "year": 2015,
+      "vdem_index": 0.6579999923706055,
+      "vdem_regime": 2.0,
+      "gini_coeff": 33.41999816894531,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2004,
+      "vdem_index": 0.7070000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.029998779296875,
+      "social_spending_gdp": 5.953999996185303,
+      "secondary_edu_enrollment": 0.9738500118255615,
+      "social_spending_gdp_lag1": 4.021999835968018
+    },
+    {
+      "country": "Madagascar",
+      "year": 2005,
+      "vdem_index": 0.492000013589859,
+      "vdem_regime": 1.0,
+      "gini_coeff": 39.939998626708984,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2001,
+      "vdem_index": 0.5370000004768372,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9409700036048889,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2016,
+      "vdem_index": 0.5830000042915344,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.75,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2012,
+      "vdem_index": 0.6489999890327454,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.689998626708984,
+      "social_spending_gdp": 4.585999965667725,
+      "secondary_edu_enrollment": 0.9998599886894226,
+      "social_spending_gdp_lag1": 2.631999969482422
+    },
+    {
+      "country": "Liberia",
+      "year": 2014,
+      "vdem_index": 0.6119999885559082,
+      "vdem_regime": 2.0,
+      "gini_coeff": 33.2400016784668,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.8957499861717224,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 2022,
+      "vdem_index": 0.5649999976158142,
+      "vdem_regime": 2.0,
+      "gini_coeff": 31.3799991607666,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Tunisia",
+      "year": 1991,
+      "vdem_index": 0.1979999989271164,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2009,
+      "vdem_index": 0.6349999904632568,
+      "vdem_regime": 2.0,
+      "gini_coeff": 41.29999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9869400262832642,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2014,
+      "vdem_index": 0.5979999899864197,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.599998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Albania",
+      "year": 2013,
+      "vdem_index": 0.5239999890327454,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9964900016784668,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2013,
+      "vdem_index": 0.6650000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.29999923706055,
+      "social_spending_gdp": 7.077000141143799,
+      "secondary_edu_enrollment": 1.0101799964904785,
+      "social_spending_gdp_lag1": 5.790999889373779
+    },
+    {
+      "country": "Mexico",
+      "year": 2016,
+      "vdem_index": 0.6380000114440918,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.34000015258789,
+      "social_spending_gdp": 4.315000057220459,
+      "secondary_edu_enrollment": 1.013350009918213,
+      "social_spending_gdp_lag1": 3.1649999618530273
+    },
+    {
+      "country": "Nigeria",
+      "year": 2020,
+      "vdem_index": 0.5230000019073486,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "year": 2021,
+      "vdem_index": 0.6899999976158142,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Nigeria",
+      "year": 2005,
+      "vdem_index": 0.4180000126361847,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2004,
+      "vdem_index": 0.7770000100135803,
+      "vdem_regime": 2.0,
+      "gini_coeff": 33.79999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2014,
+      "vdem_index": 0.746999979019165,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9985100030899048,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 1991,
+      "vdem_index": 0.6859999895095825,
+      "vdem_regime": 2.0,
+      "gini_coeff": 55.099998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2008,
+      "vdem_index": 0.5680000185966492,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.88999938964844,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9715800285339355,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2018,
+      "vdem_index": 0.6669999957084656,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.099998474121094,
+      "social_spending_gdp": 6.125999927520752,
+      "secondary_edu_enrollment": 1.011430025100708,
+      "social_spending_gdp_lag1": 13.687999725341797
+    },
+    {
+      "country": "Croatia",
+      "year": 2011,
+      "vdem_index": 0.8550000190734863,
+      "vdem_regime": 2.0,
+      "gini_coeff": 32.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 1991,
+      "vdem_index": 0.6859999895095825,
+      "vdem_regime": 2.0,
+      "gini_coeff": 56.29999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Moldova",
+      "year": 1992,
+      "vdem_index": 0.5019999742507935,
+      "vdem_regime": 2.0,
+      "gini_coeff": 41.099998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Burkina Faso",
+      "year": 2010,
+      "vdem_index": 0.5600000023841858,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.8474100232124329,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Honduras",
+      "year": 1998,
+      "vdem_index": 0.5649999976158142,
+      "vdem_regime": 2.0,
+      "gini_coeff": 59.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1996,
+      "vdem_index": 0.5149999856948853,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.189998626708984,
+      "social_spending_gdp": 2.4019999504089355,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 0.9390000104904175
+    },
+    {
+      "country": "Fiji",
+      "year": 2004,
+      "vdem_index": 0.5329999923706055,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2017,
+      "vdem_index": 0.6759999990463257,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.83000183105469,
+      "social_spending_gdp": 14.112000465393066,
+      "secondary_edu_enrollment": 1.0103399753570557,
+      "social_spending_gdp_lag1": 7.394000053405762
+    },
+    {
+      "country": "Panama",
+      "year": 2013,
+      "vdem_index": 0.7559999823570251,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.790000915527344,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0098600387573242,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "year": 2012,
+      "vdem_index": 0.6779999732971191,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2010,
+      "vdem_index": 0.7480000257492065,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.5099983215332,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9988999962806702,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Cape Verde",
+      "year": 1994,
+      "vdem_index": 0.7239999771118164,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9469000101089478,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "year": 1996,
+      "vdem_index": 0.26899999380111694,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2012,
+      "vdem_index": 0.6240000128746033,
+      "vdem_regime": 2.0,
+      "gini_coeff": 43.79999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2018,
+      "vdem_index": 0.6729999780654907,
+      "vdem_regime": 2.0,
+      "gini_coeff": 43.40999984741211,
+      "social_spending_gdp": 3.8389999866485596,
+      "secondary_edu_enrollment": 1.0216200351715088,
+      "social_spending_gdp_lag1": 3.263000011444092
+    },
+    {
+      "country": "Zambia",
+      "year": 2001,
+      "vdem_index": 0.49000000953674316,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2002,
+      "vdem_index": 0.6909999847412109,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.540000915527344,
+      "social_spending_gdp": 1.8819999694824219,
+      "secondary_edu_enrollment": 0.963890016078949,
+      "social_spending_gdp_lag1": 5.3460001945495605
+    },
+    {
+      "country": "Guatemala",
+      "year": 2010,
+      "vdem_index": 0.5910000205039978,
+      "vdem_regime": 2.0,
+      "gini_coeff": 55.099998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9068400263786316,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Liberia",
+      "year": 2016,
+      "vdem_index": 0.6150000095367432,
+      "vdem_regime": 2.0,
+      "gini_coeff": 35.27000045776367,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 1991,
+      "vdem_index": 0.22200000286102295,
+      "vdem_regime": 1.0,
+      "gini_coeff": 52.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Albania",
+      "year": 1998,
+      "vdem_index": 0.39399999380111694,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Serbia",
+      "year": 2018,
+      "vdem_index": 0.35899999737739563,
+      "vdem_regime": 1.0,
+      "gini_coeff": 38.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9973400235176086,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2005,
+      "vdem_index": 0.597000002861023,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.83000183105469,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9882400035858154,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Kenya",
+      "year": 1994,
+      "vdem_index": 0.3330000042915344,
+      "vdem_regime": 1.0,
+      "gini_coeff": 43.11000061035156,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Montenegro",
+      "year": 2017,
+      "vdem_index": 0.45899999141693115,
+      "vdem_regime": 1.0,
+      "gini_coeff": 38.4900016784668,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0087100267410278,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1994,
+      "vdem_index": 0.4740000069141388,
+      "vdem_regime": 1.0,
+      "gini_coeff": 50.29999923706055,
+      "social_spending_gdp": 4.105000019073486,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 3.078000068664551
+    },
+    {
+      "country": "Colombia",
+      "year": 2012,
+      "vdem_index": 0.6570000052452087,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.599998474121094,
+      "social_spending_gdp": 6.540999889373779,
+      "secondary_edu_enrollment": 1.0103399753570557,
+      "social_spending_gdp_lag1": 5.690999984741211
+    },
+    {
+      "country": "North Macedonia",
+      "year": 1994,
+      "vdem_index": 0.31700000166893005,
+      "vdem_regime": 1.0,
+      "gini_coeff": 27.299999237060547,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "East Timor",
+      "year": 1997,
+      "vdem_index": 0.07800000160932541,
+      "vdem_regime": 0.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2010,
+      "vdem_index": 0.6510000228881836,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.0,
+      "social_spending_gdp": 4.783999919891357,
+      "secondary_edu_enrollment": 1.0050899982452393,
+      "social_spending_gdp_lag1": 2.5480000972747803
+    },
+    {
+      "country": "Niger",
+      "year": 1996,
+      "vdem_index": 0.2919999957084656,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2020,
+      "vdem_index": 0.6399999856948853,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.790000915527344,
+      "social_spending_gdp": 8.741000175476074,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 7.341000080108643
+    },
+    {
+      "country": "Paraguay",
+      "year": 2017,
+      "vdem_index": 0.5910000205039978,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.79999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2016,
+      "vdem_index": 0.7549999952316284,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.34000015258789,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Albania",
+      "year": 2019,
+      "vdem_index": 0.5170000195503235,
+      "vdem_regime": 2.0,
+      "gini_coeff": 34.29999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.046679973602295,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2016,
+      "vdem_index": 0.6650000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": 37.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9880899786949158,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2010,
+      "vdem_index": 0.621999979019165,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.900001525878906,
+      "social_spending_gdp": 6.578999996185303,
+      "secondary_edu_enrollment": 1.012369990348816,
+      "social_spending_gdp_lag1": 5.956999778747559
+    },
+    {
+      "country": "Mexico",
+      "year": 1992,
+      "vdem_index": 0.4410000145435333,
+      "vdem_regime": 1.0,
+      "gini_coeff": 45.29999923706055,
+      "social_spending_gdp": 3.115000009536743,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 0.7310000061988831
+    },
+    {
+      "country": "Mali",
+      "year": 2018,
+      "vdem_index": 0.5149999856948853,
+      "vdem_regime": 1.0,
+      "gini_coeff": 32.16999816894531,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.8644199967384338,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "year": 2019,
+      "vdem_index": 0.5339999794960022,
+      "vdem_regime": 2.0,
+      "gini_coeff": 37.16999816894531,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.8734899759292603,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 1995,
+      "vdem_index": 0.4869999885559082,
+      "vdem_regime": 1.0,
+      "gini_coeff": 46.599998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2016,
+      "vdem_index": 0.8389999866485596,
+      "vdem_regime": 2.0,
+      "gini_coeff": 33.599998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2012,
+      "vdem_index": 0.8550000190734863,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.900001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2008,
+      "vdem_index": 0.6200000047683716,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.029998779296875,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9975399971008301,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Thailand",
+      "year": 2003,
+      "vdem_index": 0.5519999861717224,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2019,
+      "vdem_index": 0.7350000143051147,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2018,
+      "vdem_index": 0.6669999957084656,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.0,
+      "social_spending_gdp": 6.125999927520752,
+      "secondary_edu_enrollment": 1.011430025100708,
+      "social_spending_gdp_lag1": 13.687999725341797
+    },
+    {
+      "country": "Gambia",
+      "year": 2020,
+      "vdem_index": 0.4959999918937683,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2007,
+      "vdem_index": 0.6309999823570251,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.810001373291016,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.027459979057312,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Honduras",
+      "year": 1994,
+      "vdem_index": 0.5320000052452087,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.29999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2019,
+      "vdem_index": 0.7350000143051147,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.599998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1994,
+      "vdem_index": 0.4740000069141388,
+      "vdem_regime": 1.0,
+      "gini_coeff": 54.439998626708984,
+      "social_spending_gdp": 1.0140000581741333,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 4.105000019073486
+    },
+    {
+      "country": "Honduras",
+      "year": 2006,
+      "vdem_index": 0.515999972820282,
+      "vdem_regime": 2.0,
+      "gini_coeff": 60.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2005,
+      "vdem_index": 0.7070000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.599998474121094,
+      "social_spending_gdp": 4.0960001945495605,
+      "secondary_edu_enrollment": 0.9794099926948547,
+      "social_spending_gdp_lag1": 2.0380001068115234
+    },
+    {
+      "country": "Moldova",
+      "year": 2006,
+      "vdem_index": 0.43700000643730164,
+      "vdem_regime": 1.0,
+      "gini_coeff": 32.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0090299844741821,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2009,
+      "vdem_index": 0.6340000033378601,
+      "vdem_regime": 2.0,
+      "gini_coeff": 43.79999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9989200234413147,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2015,
+      "vdem_index": 0.8180000185966492,
+      "vdem_regime": 2.0,
+      "gini_coeff": 36.09000015258789,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2017,
+      "vdem_index": 0.6759999990463257,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.720001220703125,
+      "social_spending_gdp": 7.394000053405762,
+      "secondary_edu_enrollment": 1.0103399753570557,
+      "social_spending_gdp_lag1": 6.308000087738037
+    },
+    {
+      "country": "Lesotho",
+      "year": 1996,
+      "vdem_index": 0.31299999356269836,
+      "vdem_regime": 0.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.23403000831604,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2019,
+      "vdem_index": 0.6000000238418579,
+      "vdem_regime": 2.0,
+      "gini_coeff": 35.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2019,
+      "vdem_index": 0.6489999890327454,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.099998474121094,
+      "social_spending_gdp": 14.12600040435791,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 7.754000186920166
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 1997,
+      "vdem_index": 0.6179999709129333,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.650001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2009,
+      "vdem_index": 0.6010000109672546,
+      "vdem_regime": 2.0,
+      "gini_coeff": 43.77000045776367,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9794300198554993,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1994,
+      "vdem_index": 0.4740000069141388,
+      "vdem_regime": 1.0,
+      "gini_coeff": 53.900001525878906,
+      "social_spending_gdp": 4.105000019073486,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 3.0959999561309814
+    },
+    {
+      "country": "Mexico",
+      "year": 2006,
+      "vdem_index": 0.6700000166893005,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.70000076293945,
+      "social_spending_gdp": 4.26200008392334,
+      "secondary_edu_enrollment": 0.9929400086402893,
+      "social_spending_gdp_lag1": 1.9889999628067017
+    },
+    {
+      "country": "Mali",
+      "year": 2018,
+      "vdem_index": 0.5149999856948853,
+      "vdem_regime": 1.0,
+      "gini_coeff": 33.68000030517578,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.8644199967384338,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2015,
+      "vdem_index": 0.6840000152587891,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.08000183105469,
+      "social_spending_gdp": 14.545000076293945,
+      "secondary_edu_enrollment": 1.0123499631881714,
+      "social_spending_gdp_lag1": 7.827000141143799
+    },
+    {
+      "country": "Seychelles",
+      "year": 2006,
+      "vdem_index": 0.4519999921321869,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2004,
+      "vdem_index": 0.7360000014305115,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.79999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0056300163269043,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2010,
+      "vdem_index": 0.6510000228881836,
+      "vdem_regime": 2.0,
+      "gini_coeff": 44.83000183105469,
+      "social_spending_gdp": 7.3420000076293945,
+      "secondary_edu_enrollment": 1.0050899982452393,
+      "social_spending_gdp_lag1": 4.783999919891357
+    },
+    {
+      "country": "Colombia",
+      "year": 2011,
+      "vdem_index": 0.6589999794960022,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.970001220703125,
+      "social_spending_gdp": 12.680999755859375,
+      "secondary_edu_enrollment": 1.0068999528884888,
+      "social_spending_gdp_lag1": 6.500999927520752
+    },
+    {
+      "country": "Colombia",
+      "year": 2014,
+      "vdem_index": 0.675000011920929,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.5,
+      "social_spending_gdp": 14.111000061035156,
+      "secondary_edu_enrollment": 1.011780023574829,
+      "social_spending_gdp_lag1": 7.50600004196167
+    },
+    {
+      "country": "Seychelles",
+      "year": 2016,
+      "vdem_index": 0.5920000076293945,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2009,
+      "vdem_index": 0.5849999785423279,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.959999084472656,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.019610047340393,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2017,
+      "vdem_index": 0.6759999990463257,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.20000076293945,
+      "social_spending_gdp": 14.112000465393066,
+      "secondary_edu_enrollment": 1.0103399753570557,
+      "social_spending_gdp_lag1": 7.394000053405762
+    },
+    {
+      "country": "East Timor",
+      "year": 2016,
+      "vdem_index": 0.6110000014305115,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0025399923324585,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1996,
+      "vdem_index": 0.5149999856948853,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.599998474121094,
+      "social_spending_gdp": 2.4019999504089355,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 0.9390000104904175
+    },
+    {
+      "country": "Panama",
+      "year": 2007,
+      "vdem_index": 0.7369999885559082,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.81999969482422,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 2022,
+      "vdem_index": 0.5649999976158142,
+      "vdem_regime": 2.0,
+      "gini_coeff": 40.33000183105469,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2013,
+      "vdem_index": 0.6209999918937683,
+      "vdem_regime": 2.0,
+      "gini_coeff": 41.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9988300204277039,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1992,
+      "vdem_index": 0.4410000145435333,
+      "vdem_regime": 1.0,
+      "gini_coeff": 50.290000915527344,
+      "social_spending_gdp": 0.7310000061988831,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 3.8499999046325684
+    },
+    {
+      "country": "Honduras",
+      "year": 2006,
+      "vdem_index": 0.515999972820282,
+      "vdem_regime": 2.0,
+      "gini_coeff": 55.61000061035156,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Maldives",
+      "year": 2003,
+      "vdem_index": 0.1720000058412552,
+      "vdem_regime": 1.0,
+      "gini_coeff": 35.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Malawi",
+      "year": 2016,
+      "vdem_index": 0.5360000133514404,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9819700121879578,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Cape Verde",
+      "year": 2019,
+      "vdem_index": 0.7860000133514404,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2006,
+      "vdem_index": 0.6700000166893005,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.099998474121094,
+      "social_spending_gdp": 6.260000228881836,
+      "secondary_edu_enrollment": 0.9929400086402893,
+      "social_spending_gdp_lag1": 4.26200008392334
+    },
+    {
+      "country": "Taiwan",
+      "year": 2021,
+      "vdem_index": 0.8190000057220459,
+      "vdem_regime": 2.0,
+      "gini_coeff": 22.15999984741211,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Kosovo",
+      "year": 1999,
+      "vdem_index": 0.2199999988079071,
+      "vdem_regime": 0.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Burkina Faso",
+      "year": 2021,
+      "vdem_index": 0.6259999871253967,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Montenegro",
+      "year": 2000,
+      "vdem_index": 0.42100000381469727,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 2006,
+      "vdem_index": 0.7089999914169312,
+      "vdem_regime": 2.0,
+      "gini_coeff": 35.29999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.024649977684021,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2004,
+      "vdem_index": 0.5400000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.36000061035156,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 1995,
+      "vdem_index": 0.4429999887943268,
+      "vdem_regime": 1.0,
+      "gini_coeff": 50.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2011,
+      "vdem_index": 0.503000020980835,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.810001373291016,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Liberia",
+      "year": 2013,
+      "vdem_index": 0.6159999966621399,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2010,
+      "vdem_index": 0.8040000200271606,
+      "vdem_regime": 2.0,
+      "gini_coeff": 34.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "South Africa",
+      "year": 2012,
+      "vdem_index": 0.7720000147819519,
+      "vdem_regime": 2.0,
+      "gini_coeff": 61.91999816894531,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Libya",
+      "year": 1997,
+      "vdem_index": 0.07199999690055847,
+      "vdem_regime": 0.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2010,
+      "vdem_index": 0.621999979019165,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.47999954223633,
+      "social_spending_gdp": 12.991999626159668,
+      "secondary_edu_enrollment": 1.012369990348816,
+      "social_spending_gdp_lag1": 6.578999996185303
+    },
+    {
+      "country": "Mexico",
+      "year": 2005,
+      "vdem_index": 0.7070000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.599998474121094,
+      "social_spending_gdp": 2.0380001068115234,
+      "secondary_edu_enrollment": 0.9794099926948547,
+      "social_spending_gdp_lag1": 6.144999980926514
+    },
+    {
+      "country": "Colombia",
+      "year": 2010,
+      "vdem_index": 0.621999979019165,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.630001068115234,
+      "social_spending_gdp": 12.991999626159668,
+      "secondary_edu_enrollment": 1.012369990348816,
+      "social_spending_gdp_lag1": 6.578999996185303
+    },
+    {
+      "country": "Thailand",
+      "year": 1995,
+      "vdem_index": 0.43299999833106995,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2008,
+      "vdem_index": 0.6420000195503235,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.849998474121094,
+      "social_spending_gdp": 2.1519999504089355,
+      "secondary_edu_enrollment": 1.0085400342941284,
+      "social_spending_gdp_lag1": 6.703999996185303
+    },
+    {
+      "country": "East Timor",
+      "year": 2010,
+      "vdem_index": 0.625,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9742799997329712,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 1995,
+      "vdem_index": 0.19300000369548798,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9404000043869019,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Malawi",
+      "year": 2005,
+      "vdem_index": 0.44200000166893005,
+      "vdem_regime": 1.0,
+      "gini_coeff": 33.900001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9213200211524963,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Serbia",
+      "year": 2006,
+      "vdem_index": 0.6389999985694885,
+      "vdem_regime": 2.0,
+      "gini_coeff": 29.25,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Serbia",
+      "year": 2015,
+      "vdem_index": 0.4269999861717224,
+      "vdem_regime": 1.0,
+      "gini_coeff": 39.630001068115234,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0007200241088867,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Sri Lanka",
+      "year": 1992,
+      "vdem_index": 0.44699999690055847,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Kenya",
+      "year": 1996,
+      "vdem_index": 0.3370000123977661,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Albania",
+      "year": 2005,
+      "vdem_index": 0.5199999809265137,
+      "vdem_regime": 2.0,
+      "gini_coeff": 30.600000381469727,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mali",
+      "year": 2008,
+      "vdem_index": 0.6039999723434448,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2018,
+      "vdem_index": 0.7329999804496765,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2007,
+      "vdem_index": 0.7770000100135803,
+      "vdem_regime": 2.0,
+      "gini_coeff": 24.280000686645508,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2015,
+      "vdem_index": 0.8180000185966492,
+      "vdem_regime": 2.0,
+      "gini_coeff": 29.399999618530273,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2011,
+      "vdem_index": 0.6589999794960022,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.16999816894531,
+      "social_spending_gdp": 12.680999755859375,
+      "secondary_edu_enrollment": 1.0068999528884888,
+      "social_spending_gdp_lag1": 6.500999927520752
+    },
+    {
+      "country": "Georgia",
+      "year": 2018,
+      "vdem_index": 0.6759999990463257,
+      "vdem_regime": 2.0,
+      "gini_coeff": 37.25,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2014,
+      "vdem_index": 0.675000011920929,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.11000061035156,
+      "social_spending_gdp": 6.223999977111816,
+      "secondary_edu_enrollment": 1.011780023574829,
+      "social_spending_gdp_lag1": 14.111000061035156
+    },
+    {
+      "country": "Mongolia",
+      "year": 1993,
+      "vdem_index": 0.7099999785423279,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2016,
+      "vdem_index": 0.7639999985694885,
+      "vdem_regime": 2.0,
+      "gini_coeff": 30.06999969482422,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 1991,
+      "vdem_index": 0.5249999761581421,
+      "vdem_regime": 2.0,
+      "gini_coeff": 56.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 2007,
+      "vdem_index": 0.7099999785423279,
+      "vdem_regime": 2.0,
+      "gini_coeff": 36.65999984741211,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0177600383758545,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Bangladesh",
+      "year": 2018,
+      "vdem_index": 0.25999999046325684,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2018,
+      "vdem_index": 0.6729999780654907,
+      "vdem_regime": 2.0,
+      "gini_coeff": 41.79999923706055,
+      "social_spending_gdp": 3.8389999866485596,
+      "secondary_edu_enrollment": 1.0216200351715088,
+      "social_spending_gdp_lag1": 3.263000011444092
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "year": 2011,
+      "vdem_index": 0.6830000281333923,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2008,
+      "vdem_index": 0.5809999704360962,
+      "vdem_regime": 2.0,
+      "gini_coeff": 57.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.030310034751892,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Sri Lanka",
+      "year": 2022,
+      "vdem_index": 0.6039999723434448,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mali",
+      "year": 2019,
+      "vdem_index": 0.5109999775886536,
+      "vdem_regime": 1.0,
+      "gini_coeff": 31.25,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2014,
+      "vdem_index": 0.5979999899864197,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Nepal",
+      "year": 2000,
+      "vdem_index": 0.3630000054836273,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2016,
+      "vdem_index": 0.8389999866485596,
+      "vdem_regime": 2.0,
+      "gini_coeff": 23.739999771118164,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Benin",
+      "year": 2000,
+      "vdem_index": 0.6119999885559082,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 1997,
+      "vdem_index": 0.6510000228881836,
+      "vdem_regime": 2.0,
+      "gini_coeff": 27.229999542236328,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1996,
+      "vdem_index": 0.5149999856948853,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.209999084472656,
+      "social_spending_gdp": 3.367000102996826,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 2.4019999504089355
+    },
+    {
+      "country": "Liberia",
+      "year": 1996,
+      "vdem_index": 0.15299999713897705,
+      "vdem_regime": 0.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Thailand",
+      "year": 2006,
+      "vdem_index": 0.23600000143051147,
+      "vdem_regime": 1.0,
+      "gini_coeff": 41.81999969482422,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2021,
+      "vdem_index": 0.6129999756813049,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1994,
+      "vdem_index": 0.4740000069141388,
+      "vdem_regime": 1.0,
+      "gini_coeff": 50.400001525878906,
+      "social_spending_gdp": 1.0140000581741333,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 4.105000019073486
+    },
+    {
+      "country": "Georgia",
+      "year": 2011,
+      "vdem_index": 0.503000020980835,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.529998779296875,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Guatemala",
+      "year": 2004,
+      "vdem_index": 0.5640000104904175,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.349998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1998,
+      "vdem_index": 0.6019999980926514,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.70000076293945,
+      "social_spending_gdp": 3.809000015258789,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 2.7239999771118164
+    },
+    {
+      "country": "Panama",
+      "year": 2016,
+      "vdem_index": 0.7549999952316284,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.279998779296875,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mali",
+      "year": 2007,
+      "vdem_index": 0.609000027179718,
+      "vdem_regime": 2.0,
+      "gini_coeff": 38.93000030517578,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2016,
+      "vdem_index": 0.7549999952316284,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 1991,
+      "vdem_index": 0.1940000057220459,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Palestine/West Bank",
+      "year": 2013,
+      "vdem_index": 0.2630000114440918,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2011,
+      "vdem_index": 0.6309999823570251,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0069199800491333,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2002,
+      "vdem_index": 0.6909999847412109,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.79999923706055,
+      "social_spending_gdp": 5.3460001945495605,
+      "secondary_edu_enrollment": 0.963890016078949,
+      "social_spending_gdp_lag1": 3.4489998817443848
+    },
+    {
+      "country": "El Salvador",
+      "year": 2013,
+      "vdem_index": 0.6269999742507935,
+      "vdem_regime": 2.0,
+      "gini_coeff": 43.36000061035156,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 1999,
+      "vdem_index": 0.5379999876022339,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.959999084472656,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9680600166320801,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "North Macedonia",
+      "year": 2004,
+      "vdem_index": 0.6129999756813049,
+      "vdem_regime": 2.0,
+      "gini_coeff": 24.299999237060547,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Guatemala",
+      "year": 2019,
+      "vdem_index": 0.6069999933242798,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Nepal",
+      "year": 2021,
+      "vdem_index": 0.609000027179718,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 1999,
+      "vdem_index": 0.5080000162124634,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Guatemala",
+      "year": 2018,
+      "vdem_index": 0.6010000109672546,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9275299906730652,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Honduras",
+      "year": 2002,
+      "vdem_index": 0.5550000071525574,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.630001068115234,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2005,
+      "vdem_index": 0.7749999761581421,
+      "vdem_regime": 2.0,
+      "gini_coeff": 30.639999389648438,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2011,
+      "vdem_index": 0.6589999794960022,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.189998626708984,
+      "social_spending_gdp": 5.767000198364258,
+      "secondary_edu_enrollment": 1.0068999528884888,
+      "social_spending_gdp_lag1": 12.680999755859375
+    },
+    {
+      "country": "South Africa",
+      "year": 2017,
+      "vdem_index": 0.7360000014305115,
+      "vdem_regime": 2.0,
+      "gini_coeff": 65.11000061035156,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9323899745941162,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Seychelles",
+      "year": 2011,
+      "vdem_index": 0.48500001430511475,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2022,
+      "vdem_index": 0.8240000009536743,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 1998,
+      "vdem_index": 0.7070000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 56.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Palestine/West Bank",
+      "year": 2002,
+      "vdem_index": 0.49300000071525574,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2014,
+      "vdem_index": 0.675000011920929,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.4900016784668,
+      "social_spending_gdp": 7.50600004196167,
+      "secondary_edu_enrollment": 1.011780023574829,
+      "social_spending_gdp_lag1": 6.223999977111816
+    },
+    {
+      "country": "Colombia",
+      "year": 2021,
+      "vdem_index": 0.6460000276565552,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.900001525878906,
+      "social_spending_gdp": 6.7179999351501465,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 15.152999877929688
+    },
+    {
+      "country": "Guinea-Bissau",
+      "year": 2016,
+      "vdem_index": 0.5,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Montenegro",
+      "year": 2014,
+      "vdem_index": 0.4690000116825104,
+      "vdem_regime": 1.0,
+      "gini_coeff": 39.02000045776367,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2017,
+      "vdem_index": 0.7350000143051147,
+      "vdem_regime": 2.0,
+      "gini_coeff": 30.280000686645508,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Honduras",
+      "year": 1999,
+      "vdem_index": 0.5649999976158142,
+      "vdem_regime": 2.0,
+      "gini_coeff": 56.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2016,
+      "vdem_index": 0.6930000185966492,
+      "vdem_regime": 2.0,
+      "gini_coeff": 36.63999938964844,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Belarus",
+      "year": 2003,
+      "vdem_index": 0.24199999868869781,
+      "vdem_regime": 1.0,
+      "gini_coeff": 24.899999618530273,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2014,
+      "vdem_index": 0.675000011920929,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.11000061035156,
+      "social_spending_gdp": 7.50600004196167,
+      "secondary_edu_enrollment": 1.011780023574829,
+      "social_spending_gdp_lag1": 6.223999977111816
+    },
+    {
+      "country": "Kenya",
+      "year": 2021,
+      "vdem_index": 0.5090000033378601,
+      "vdem_regime": 1.0,
+      "gini_coeff": 38.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Bangladesh",
+      "year": 2016,
+      "vdem_index": 0.27900001406669617,
+      "vdem_regime": 1.0,
+      "gini_coeff": 45.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2020,
+      "vdem_index": 0.5220000147819519,
+      "vdem_regime": 2.0,
+      "gini_coeff": 42.099998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2009,
+      "vdem_index": 0.6349999904632568,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.099998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9869400262832642,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2004,
+      "vdem_index": 0.7070000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.27000045776367,
+      "social_spending_gdp": 4.021999835968018,
+      "secondary_edu_enrollment": 0.9738500118255615,
+      "social_spending_gdp_lag1": 1.9210000038146973
+    },
+    {
+      "country": "Mexico",
+      "year": 1997,
+      "vdem_index": 0.5590000152587891,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": 0.9039999842643738,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 3.3959999084472656
+    },
+    {
+      "country": "Colombia",
+      "year": 2014,
+      "vdem_index": 0.675000011920929,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.849998474121094,
+      "social_spending_gdp": 6.223999977111816,
+      "secondary_edu_enrollment": 1.011780023574829,
+      "social_spending_gdp_lag1": 14.111000061035156
+    },
+    {
+      "country": "Nepal",
+      "year": 2017,
+      "vdem_index": 0.6629999876022339,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0461900234222412,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2006,
+      "vdem_index": 0.6700000166893005,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.599998474121094,
+      "social_spending_gdp": 6.260000228881836,
+      "secondary_edu_enrollment": 0.9929400086402893,
+      "social_spending_gdp_lag1": 4.26200008392334
+    },
+    {
+      "country": "Colombia",
+      "year": 2004,
+      "vdem_index": 0.5400000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.97999954223633,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Libya",
+      "year": 1996,
+      "vdem_index": 0.07199999690055847,
+      "vdem_regime": 0.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 1997,
+      "vdem_index": 0.5600000023841858,
+      "vdem_regime": 2.0,
+      "gini_coeff": 58.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 1995,
+      "vdem_index": 0.5220000147819519,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.04999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Moldova",
+      "year": 2000,
+      "vdem_index": 0.5799999833106995,
+      "vdem_regime": 2.0,
+      "gini_coeff": 36.43000030517578,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0414299964904785,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2011,
+      "vdem_index": 0.8550000190734863,
+      "vdem_regime": 2.0,
+      "gini_coeff": 32.380001068115234,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Serbia",
+      "year": 2020,
+      "vdem_index": 0.3540000021457672,
+      "vdem_regime": 1.0,
+      "gini_coeff": 34.47999954223633,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2019,
+      "vdem_index": 0.6489999890327454,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.33000183105469,
+      "social_spending_gdp": 7.754000186920166,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 6.031000137329102
+    },
+    {
+      "country": "Mexico",
+      "year": 2008,
+      "vdem_index": 0.6420000195503235,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.5,
+      "social_spending_gdp": 4.539999961853027,
+      "secondary_edu_enrollment": 1.0085400342941284,
+      "social_spending_gdp_lag1": 2.1519999504089355
+    },
+    {
+      "country": "Mali",
+      "year": 2019,
+      "vdem_index": 0.5109999775886536,
+      "vdem_regime": 1.0,
+      "gini_coeff": 39.93000030517578,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1994,
+      "vdem_index": 0.4740000069141388,
+      "vdem_regime": 1.0,
+      "gini_coeff": 52.810001373291016,
+      "social_spending_gdp": 4.105000019073486,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 3.078000068664551
+    },
+    {
+      "country": "Paraguay",
+      "year": 2013,
+      "vdem_index": 0.5860000252723694,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.06999969482422,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Guinea-Bissau",
+      "year": 1995,
+      "vdem_index": 0.36399999260902405,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Benin",
+      "year": 1999,
+      "vdem_index": 0.6140000224113464,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2010,
+      "vdem_index": 0.7480000257492065,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.9900016784668,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9988999962806702,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1996,
+      "vdem_index": 0.5149999856948853,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.650001525878906,
+      "social_spending_gdp": 0.9390000104904175,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 3.367000102996826
+    },
+    {
+      "country": "Taiwan",
+      "year": 1997,
+      "vdem_index": 0.6510000228881836,
+      "vdem_regime": 2.0,
+      "gini_coeff": 30.90999984741211,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2007,
+      "vdem_index": 0.597000002861023,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.029998779296875,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9896900057792664,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2017,
+      "vdem_index": 0.6899999976158142,
+      "vdem_regime": 2.0,
+      "gini_coeff": 44.470001220703125,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2012,
+      "vdem_index": 0.8550000190734863,
+      "vdem_regime": 2.0,
+      "gini_coeff": 34.869998931884766,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Niger",
+      "year": 2004,
+      "vdem_index": 0.5479999780654907,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.6368299722671509,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Serbia",
+      "year": 2004,
+      "vdem_index": 0.6370000243186951,
+      "vdem_regime": 2.0,
+      "gini_coeff": 35.470001220703125,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2001,
+      "vdem_index": 0.546999990940094,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.27000045776367,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Cape Verde",
+      "year": 1995,
+      "vdem_index": 0.7319999933242798,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Zambia",
+      "year": 1992,
+      "vdem_index": 0.4359999895095825,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2003,
+      "vdem_index": 0.5659999847412109,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.939998626708984,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9814900159835815,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2014,
+      "vdem_index": 0.6650000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": 41.54999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2011,
+      "vdem_index": 0.7480000257492065,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.369998931884766,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.006250023841858,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2018,
+      "vdem_index": 0.7329999804496765,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.209999084472656,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 1991,
+      "vdem_index": 0.2680000066757202,
+      "vdem_regime": 0.0,
+      "gini_coeff": 31.030000686645508,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Cape Verde",
+      "year": 2015,
+      "vdem_index": 0.7979999780654907,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9846699833869934,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 2021,
+      "vdem_index": 0.5580000281333923,
+      "vdem_regime": 2.0,
+      "gini_coeff": 31.530000686645508,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2018,
+      "vdem_index": 0.6669999957084656,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.939998626708984,
+      "social_spending_gdp": 6.125999927520752,
+      "secondary_edu_enrollment": 1.011430025100708,
+      "social_spending_gdp_lag1": 13.687999725341797
+    },
+    {
+      "country": "Ukraine",
+      "year": 1995,
+      "vdem_index": 0.5509999990463257,
+      "vdem_regime": 2.0,
+      "gini_coeff": 39.290000915527344,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2003,
+      "vdem_index": 0.5659999847412109,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.66999816894531,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9814900159835815,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2018,
+      "vdem_index": 0.7350000143051147,
+      "vdem_regime": 2.0,
+      "gini_coeff": 42.619998931884766,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Honduras",
+      "year": 2004,
+      "vdem_index": 0.5690000057220459,
+      "vdem_regime": 2.0,
+      "gini_coeff": 56.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2007,
+      "vdem_index": 0.6309999823570251,
+      "vdem_regime": 2.0,
+      "gini_coeff": 56.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.027459979057312,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2013,
+      "vdem_index": 0.7559999823570251,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.0099983215332,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0098600387573242,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2001,
+      "vdem_index": 0.734000027179718,
+      "vdem_regime": 2.0,
+      "gini_coeff": 57.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0002299547195435,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Kenya",
+      "year": 2006,
+      "vdem_index": 0.5099999904632568,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.900001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9764900207519531,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 2002,
+      "vdem_index": 0.6850000023841858,
+      "vdem_regime": 2.0,
+      "gini_coeff": 33.939998626708984,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9861699938774109,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Belarus",
+      "year": 2004,
+      "vdem_index": 0.24199999868869781,
+      "vdem_regime": 1.0,
+      "gini_coeff": 24.799999237060547,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2006,
+      "vdem_index": 0.6700000166893005,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.939998626708984,
+      "social_spending_gdp": 1.9889999628067017,
+      "secondary_edu_enrollment": 0.9929400086402893,
+      "social_spending_gdp_lag1": 6.260000228881836
+    },
+    {
+      "country": "Paraguay",
+      "year": 2013,
+      "vdem_index": 0.5860000252723694,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.599998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "year": 2002,
+      "vdem_index": 0.45100000500679016,
+      "vdem_regime": 1.0,
+      "gini_coeff": 49.86000061035156,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2006,
+      "vdem_index": 0.7369999885559082,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.900001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Honduras",
+      "year": 2009,
+      "vdem_index": 0.44200000166893005,
+      "vdem_regime": 1.0,
+      "gini_coeff": 46.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2018,
+      "vdem_index": 0.6729999780654907,
+      "vdem_regime": 2.0,
+      "gini_coeff": 42.060001373291016,
+      "social_spending_gdp": 3.8389999866485596,
+      "secondary_edu_enrollment": 1.0216200351715088,
+      "social_spending_gdp_lag1": 3.263000011444092
+    },
+    {
+      "country": "Paraguay",
+      "year": 2016,
+      "vdem_index": 0.5830000042915344,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.849998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2022,
+      "vdem_index": 0.7360000014305115,
+      "vdem_regime": 2.0,
+      "gini_coeff": 28.510000228881836,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2008,
+      "vdem_index": 0.6420000195503235,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.880001068115234,
+      "social_spending_gdp": 4.539999961853027,
+      "secondary_edu_enrollment": 1.0085400342941284,
+      "social_spending_gdp_lag1": 2.1519999504089355
+    },
+    {
+      "country": "Taiwan",
+      "year": 1997,
+      "vdem_index": 0.6510000228881836,
+      "vdem_regime": 2.0,
+      "gini_coeff": 27.100000381469727,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Lesotho",
+      "year": 2013,
+      "vdem_index": 0.6290000081062317,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.1206899881362915,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2002,
+      "vdem_index": 0.546999990940094,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.29999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9391400218009949,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2014,
+      "vdem_index": 0.6209999918937683,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.0,
+      "social_spending_gdp": 3.1029999256134033,
+      "secondary_edu_enrollment": 1.0035799741744995,
+      "social_spending_gdp_lag1": 7.552000045776367
+    },
+    {
+      "country": "Tunisia",
+      "year": 2006,
+      "vdem_index": 0.1899999976158142,
+      "vdem_regime": 1.0,
+      "gini_coeff": 41.650001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Serbia",
+      "year": 2020,
+      "vdem_index": 0.3540000021457672,
+      "vdem_regime": 1.0,
+      "gini_coeff": 34.4900016784668,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2015,
+      "vdem_index": 0.6840000152587891,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.7400016784668,
+      "social_spending_gdp": 6.3429999351501465,
+      "secondary_edu_enrollment": 1.0123499631881714,
+      "social_spending_gdp_lag1": 14.545000076293945
+    },
+    {
+      "country": "Taiwan",
+      "year": 2017,
+      "vdem_index": 0.8450000286102295,
+      "vdem_regime": 2.0,
+      "gini_coeff": 30.739999771118164,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2018,
+      "vdem_index": 0.6729999780654907,
+      "vdem_regime": 2.0,
+      "gini_coeff": 41.79999923706055,
+      "social_spending_gdp": 7.105000019073486,
+      "secondary_edu_enrollment": 1.0216200351715088,
+      "social_spending_gdp_lag1": 3.8389999866485596
+    },
+    {
+      "country": "Belarus",
+      "year": 2000,
+      "vdem_index": 0.296999990940094,
+      "vdem_regime": 1.0,
+      "gini_coeff": 31.170000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2017,
+      "vdem_index": 0.8450000286102295,
+      "vdem_regime": 2.0,
+      "gini_coeff": 27.700000762939453,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2021,
+      "vdem_index": 0.6880000233650208,
+      "vdem_regime": 2.0,
+      "gini_coeff": 39.900001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Montenegro",
+      "year": 2004,
+      "vdem_index": 0.5040000081062317,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 1997,
+      "vdem_index": 0.7160000205039978,
+      "vdem_regime": 2.0,
+      "gini_coeff": 55.099998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2004,
+      "vdem_index": 0.7070000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.150001525878906,
+      "social_spending_gdp": 1.9210000038146973,
+      "secondary_edu_enrollment": 0.9738500118255615,
+      "social_spending_gdp_lag1": 5.953999996185303
+    },
+    {
+      "country": "Mexico",
+      "year": 2005,
+      "vdem_index": 0.7070000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.099998474121094,
+      "social_spending_gdp": 6.144999980926514,
+      "secondary_edu_enrollment": 0.9794099926948547,
+      "social_spending_gdp_lag1": 4.0960001945495605
+    },
+    {
+      "country": "Colombia",
+      "year": 2011,
+      "vdem_index": 0.6589999794960022,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.54999923706055,
+      "social_spending_gdp": 5.767000198364258,
+      "secondary_edu_enrollment": 1.0068999528884888,
+      "social_spending_gdp_lag1": 12.680999755859375
+    },
+    {
+      "country": "Serbia",
+      "year": 2022,
+      "vdem_index": 0.36000001430511475,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2008,
+      "vdem_index": 0.6420000195503235,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.09000015258789,
+      "social_spending_gdp": 2.1519999504089355,
+      "secondary_edu_enrollment": 1.0085400342941284,
+      "social_spending_gdp_lag1": 6.703999996185303
+    },
+    {
+      "country": "North Macedonia",
+      "year": 1997,
+      "vdem_index": 0.4729999899864197,
+      "vdem_regime": 1.0,
+      "gini_coeff": 35.599998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 1997,
+      "vdem_index": 0.6510000228881836,
+      "vdem_regime": 2.0,
+      "gini_coeff": 33.720001220703125,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2003,
+      "vdem_index": 0.5360000133514404,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.54999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2002,
+      "vdem_index": 0.5320000052452087,
+      "vdem_regime": 2.0,
+      "gini_coeff": 56.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 1999,
+      "vdem_index": 0.5379999876022339,
+      "vdem_regime": 2.0,
+      "gini_coeff": 59.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9680600166320801,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Guyana",
+      "year": 2005,
+      "vdem_index": 0.5920000076293945,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2002,
+      "vdem_index": 0.5320000052452087,
+      "vdem_regime": 2.0,
+      "gini_coeff": 55.95000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2014,
+      "vdem_index": 0.6209999918937683,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.20000076293945,
+      "social_spending_gdp": 7.552000045776367,
+      "secondary_edu_enrollment": 1.0035799741744995,
+      "social_spending_gdp_lag1": 4.685999870300293
+    },
+    {
+      "country": "Seychelles",
+      "year": 1993,
+      "vdem_index": 0.3409999907016754,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.026550054550171,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2020,
+      "vdem_index": 0.7680000066757202,
+      "vdem_regime": 2.0,
+      "gini_coeff": 33.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Lesotho",
+      "year": 1998,
+      "vdem_index": 0.3720000088214874,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.191580057144165,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Kenya",
+      "year": 2007,
+      "vdem_index": 0.5099999904632568,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2008,
+      "vdem_index": 0.7369999885559082,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.68000030517578,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0074900388717651,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2017,
+      "vdem_index": 0.7350000143051147,
+      "vdem_regime": 2.0,
+      "gini_coeff": 29.90999984741211,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Guatemala",
+      "year": 2017,
+      "vdem_index": 0.6259999871253967,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9153000116348267,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2012,
+      "vdem_index": 0.6029999852180481,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.09000015258789,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.8960800170898438,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2014,
+      "vdem_index": 0.6740000247955322,
+      "vdem_regime": 2.0,
+      "gini_coeff": 37.4900016784668,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9980300068855286,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "year": 2006,
+      "vdem_index": 0.6230000257492065,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2011,
+      "vdem_index": 0.503000020980835,
+      "vdem_regime": 2.0,
+      "gini_coeff": 34.43000030517578,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2020,
+      "vdem_index": 0.6399999856948853,
+      "vdem_regime": 2.0,
+      "gini_coeff": 55.20000076293945,
+      "social_spending_gdp": 8.741000175476074,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 7.341000080108643
+    },
+    {
+      "country": "Paraguay",
+      "year": 2011,
+      "vdem_index": 0.6309999823570251,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.599998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0069199800491333,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Malawi",
+      "year": 2013,
+      "vdem_index": 0.5580000281333923,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9833099842071533,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2006,
+      "vdem_index": 0.6700000166893005,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.310001373291016,
+      "social_spending_gdp": 4.26200008392334,
+      "secondary_edu_enrollment": 0.9929400086402893,
+      "social_spending_gdp_lag1": 1.9889999628067017
+    },
+    {
+      "country": "Colombia",
+      "year": 2015,
+      "vdem_index": 0.6840000152587891,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.349998474121094,
+      "social_spending_gdp": 6.3429999351501465,
+      "secondary_edu_enrollment": 1.0123499631881714,
+      "social_spending_gdp_lag1": 14.545000076293945
+    },
+    {
+      "country": "Ukraine",
+      "year": 1991,
+      "vdem_index": 0.43299999833106995,
+      "vdem_regime": 1.0,
+      "gini_coeff": 21.200000762939453,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2013,
+      "vdem_index": 0.7559999823570251,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0098600387573242,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Guatemala",
+      "year": 2009,
+      "vdem_index": 0.5910000205039978,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9064300060272217,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Serbia",
+      "year": 2010,
+      "vdem_index": 0.6119999885559082,
+      "vdem_regime": 2.0,
+      "gini_coeff": 34.869998931884766,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9968100190162659,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 1995,
+      "vdem_index": 0.5619999766349792,
+      "vdem_regime": 2.0,
+      "gini_coeff": 56.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2010,
+      "vdem_index": 0.6510000228881836,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.79999923706055,
+      "social_spending_gdp": 7.3420000076293945,
+      "secondary_edu_enrollment": 1.0050899982452393,
+      "social_spending_gdp_lag1": 4.808000087738037
+    },
+    {
+      "country": "Mexico",
+      "year": 2012,
+      "vdem_index": 0.6489999890327454,
+      "vdem_regime": 2.0,
+      "gini_coeff": 44.45000076293945,
+      "social_spending_gdp": 7.228000164031982,
+      "secondary_edu_enrollment": 0.9998599886894226,
+      "social_spending_gdp_lag1": 4.585999965667725
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "year": 2004,
+      "vdem_index": 0.45100000500679016,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "year": 2015,
+      "vdem_index": 0.4779999852180481,
+      "vdem_regime": 1.0,
+      "gini_coeff": 57.84000015258789,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2010,
+      "vdem_index": 0.621999979019165,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.619998931884766,
+      "social_spending_gdp": 5.956999778747559,
+      "secondary_edu_enrollment": 1.012369990348816,
+      "social_spending_gdp_lag1": 12.991999626159668
+    },
+    {
+      "country": "Paraguay",
+      "year": 2020,
+      "vdem_index": 0.5830000042915344,
+      "vdem_regime": 2.0,
+      "gini_coeff": 44.43000030517578,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2010,
+      "vdem_index": 0.640999972820282,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.099998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0062899589538574,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2000,
+      "vdem_index": 0.6710000038146973,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.20000076293945,
+      "social_spending_gdp": 3.2019999027252197,
+      "secondary_edu_enrollment": 0.9522799849510193,
+      "social_spending_gdp_lag1": 1.1679999828338623
+    },
+    {
+      "country": "Colombia",
+      "year": 2009,
+      "vdem_index": 0.5849999785423279,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.019610047340393,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2010,
+      "vdem_index": 0.6510000228881836,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.97999954223633,
+      "social_spending_gdp": 2.5480000972747803,
+      "secondary_edu_enrollment": 1.0050899982452393,
+      "social_spending_gdp_lag1": 7.3420000076293945
+    },
+    {
+      "country": "Colombia",
+      "year": 2013,
+      "vdem_index": 0.6650000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.52000045776367,
+      "social_spending_gdp": 7.077000141143799,
+      "secondary_edu_enrollment": 1.0101799964904785,
+      "social_spending_gdp_lag1": 5.790999889373779
+    },
+    {
+      "country": "Libya",
+      "year": 2011,
+      "vdem_index": 0.17900000512599945,
+      "vdem_regime": 0.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Bhutan",
+      "year": 2007,
+      "vdem_index": 0.13699999451637268,
+      "vdem_regime": 0.0,
+      "gini_coeff": 38.09000015258789,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2011,
+      "vdem_index": 0.8550000190734863,
+      "vdem_regime": 2.0,
+      "gini_coeff": 35.66999816894531,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Libya",
+      "year": 1995,
+      "vdem_index": 0.07199999690055847,
+      "vdem_regime": 0.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Nepal",
+      "year": 1991,
+      "vdem_index": 0.382999986410141,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "year": 2014,
+      "vdem_index": 0.5609999895095825,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2010,
+      "vdem_index": 0.621999979019165,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.630001068115234,
+      "social_spending_gdp": 6.578999996185303,
+      "secondary_edu_enrollment": 1.012369990348816,
+      "social_spending_gdp_lag1": 5.956999778747559
+    },
+    {
+      "country": "Mongolia",
+      "year": 2007,
+      "vdem_index": 0.6869999766349792,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0563199520111084,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Seychelles",
+      "year": 2007,
+      "vdem_index": 0.47600001096725464,
+      "vdem_regime": 1.0,
+      "gini_coeff": 42.77000045776367,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1994,
+      "vdem_index": 0.4740000069141388,
+      "vdem_regime": 1.0,
+      "gini_coeff": 44.0,
+      "social_spending_gdp": 3.078000068664551,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 1.0140000581741333
+    },
+    {
+      "country": "Georgia",
+      "year": 2012,
+      "vdem_index": 0.5139999985694885,
+      "vdem_regime": 2.0,
+      "gini_coeff": 41.06999969482422,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2002,
+      "vdem_index": 0.5429999828338623,
+      "vdem_regime": 2.0,
+      "gini_coeff": 58.47999954223633,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9704300165176392,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2014,
+      "vdem_index": 0.675000011920929,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.59000015258789,
+      "social_spending_gdp": 6.223999977111816,
+      "secondary_edu_enrollment": 1.011780023574829,
+      "social_spending_gdp_lag1": 14.111000061035156
+    },
+    {
+      "country": "Honduras",
+      "year": 1998,
+      "vdem_index": 0.5649999976158142,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.619998931884766,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2014,
+      "vdem_index": 0.6740000247955322,
+      "vdem_regime": 2.0,
+      "gini_coeff": 33.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9980300068855286,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 1999,
+      "vdem_index": 0.6589999794960022,
+      "vdem_regime": 2.0,
+      "gini_coeff": 27.100000381469727,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mongolia",
+      "year": 1997,
+      "vdem_index": 0.7120000123977661,
+      "vdem_regime": 2.0,
+      "gini_coeff": 31.399999618530273,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.2402700185775757,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2017,
+      "vdem_index": 0.6899999976158142,
+      "vdem_regime": 2.0,
+      "gini_coeff": 42.619998931884766,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mongolia",
+      "year": 1999,
+      "vdem_index": 0.7120000123977661,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.202530026435852,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Kosovo",
+      "year": 2002,
+      "vdem_index": 0.4880000054836273,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Belarus",
+      "year": 1995,
+      "vdem_index": 0.49900001287460327,
+      "vdem_regime": 1.0,
+      "gini_coeff": 28.399999618530273,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2021,
+      "vdem_index": 0.6880000233650208,
+      "vdem_regime": 2.0,
+      "gini_coeff": 38.52000045776367,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1994,
+      "vdem_index": 0.4740000069141388,
+      "vdem_regime": 1.0,
+      "gini_coeff": 53.900001525878906,
+      "social_spending_gdp": 3.078000068664551,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 1.0140000581741333
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "year": 2022,
+      "vdem_index": 0.45500001311302185,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Sierra Leone",
+      "year": 2002,
+      "vdem_index": 0.30000001192092896,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 1994,
+      "vdem_index": 0.19300000369548798,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Belarus",
+      "year": 1996,
+      "vdem_index": 0.44699999690055847,
+      "vdem_regime": 1.0,
+      "gini_coeff": 28.200000762939453,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2003,
+      "vdem_index": 0.546999990940094,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.310001373291016,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Albania",
+      "year": 2017,
+      "vdem_index": 0.5400000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": 38.56999969482422,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0348999500274658,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2017,
+      "vdem_index": 0.6899999976158142,
+      "vdem_regime": 2.0,
+      "gini_coeff": 34.36000061035156,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2015,
+      "vdem_index": 0.6729999780654907,
+      "vdem_regime": 2.0,
+      "gini_coeff": 36.869998931884766,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2001,
+      "vdem_index": 0.6639999747276306,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2005,
+      "vdem_index": 0.597000002861023,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.599998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9882400035858154,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "year": 2005,
+      "vdem_index": 0.6420000195503235,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2016,
+      "vdem_index": 0.6769999861717224,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.79999923706055,
+      "social_spending_gdp": 6.415999889373779,
+      "secondary_edu_enrollment": 1.01173996925354,
+      "social_spending_gdp_lag1": 14.147000312805176
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2008,
+      "vdem_index": 0.6330000162124634,
+      "vdem_regime": 2.0,
+      "gini_coeff": 40.900001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0233800411224365,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Thailand",
+      "year": 2016,
+      "vdem_index": 0.15299999713897705,
+      "vdem_regime": 0.0,
+      "gini_coeff": 36.88999938964844,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Comoros",
+      "year": 2008,
+      "vdem_index": 0.4580000042915344,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Guatemala",
+      "year": 2006,
+      "vdem_index": 0.5640000104904175,
+      "vdem_regime": 2.0,
+      "gini_coeff": 44.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "year": 2005,
+      "vdem_index": 0.4399999976158142,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Seychelles",
+      "year": 1992,
+      "vdem_index": 0.28200000524520874,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2003,
+      "vdem_index": 0.734000027179718,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.5099983215332,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2018,
+      "vdem_index": 0.6729999780654907,
+      "vdem_regime": 2.0,
+      "gini_coeff": 37.869998931884766,
+      "social_spending_gdp": 3.8389999866485596,
+      "secondary_edu_enrollment": 1.0216200351715088,
+      "social_spending_gdp_lag1": 3.263000011444092
+    },
+    {
+      "country": "Colombia",
+      "year": 2006,
+      "vdem_index": 0.5680000185966492,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0458500385284424,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Sri Lanka",
+      "year": 2007,
+      "vdem_index": 0.3779999911785126,
+      "vdem_regime": 1.0,
+      "gini_coeff": 39.66999816894531,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2004,
+      "vdem_index": 0.5400000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.45000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2018,
+      "vdem_index": 0.6669999957084656,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.41999816894531,
+      "social_spending_gdp": 6.125999927520752,
+      "secondary_edu_enrollment": 1.011430025100708,
+      "social_spending_gdp_lag1": 13.687999725341797
+    },
+    {
+      "country": "Colombia",
+      "year": 2008,
+      "vdem_index": 0.5809999704360962,
+      "vdem_regime": 2.0,
+      "gini_coeff": 56.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.030310034751892,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Serbia",
+      "year": 2015,
+      "vdem_index": 0.4269999861717224,
+      "vdem_regime": 1.0,
+      "gini_coeff": 40.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0007200241088867,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2020,
+      "vdem_index": 0.7680000066757202,
+      "vdem_regime": 2.0,
+      "gini_coeff": 28.329999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Bhutan",
+      "year": 1998,
+      "vdem_index": 0.06599999964237213,
+      "vdem_regime": 0.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.8272299766540527,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mali",
+      "year": 2017,
+      "vdem_index": 0.5299999713897705,
+      "vdem_regime": 2.0,
+      "gini_coeff": 35.2400016784668,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.8630300164222717,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2016,
+      "vdem_index": 0.7639999985694885,
+      "vdem_regime": 2.0,
+      "gini_coeff": 42.2599983215332,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2017,
+      "vdem_index": 0.6759999990463257,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.720001220703125,
+      "social_spending_gdp": 14.112000465393066,
+      "secondary_edu_enrollment": 1.0103399753570557,
+      "social_spending_gdp_lag1": 7.394000053405762
+    },
+    {
+      "country": "Croatia",
+      "year": 2015,
+      "vdem_index": 0.8180000185966492,
+      "vdem_regime": 2.0,
+      "gini_coeff": 34.939998626708984,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Comoros",
+      "year": 2002,
+      "vdem_index": 0.3269999921321869,
+      "vdem_regime": NaN,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "year": 2002,
+      "vdem_index": 0.45100000500679016,
+      "vdem_regime": 1.0,
+      "gini_coeff": 58.790000915527344,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2021,
+      "vdem_index": 0.7559999823570251,
+      "vdem_regime": 2.0,
+      "gini_coeff": 33.90999984741211,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2011,
+      "vdem_index": 0.6589999794960022,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.20000076293945,
+      "social_spending_gdp": 12.680999755859375,
+      "secondary_edu_enrollment": 1.0068999528884888,
+      "social_spending_gdp_lag1": 6.500999927520752
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "year": 2015,
+      "vdem_index": 0.4779999852180481,
+      "vdem_regime": 1.0,
+      "gini_coeff": 40.849998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2010,
+      "vdem_index": 0.621999979019165,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.4900016784668,
+      "social_spending_gdp": 12.991999626159668,
+      "secondary_edu_enrollment": 1.012369990348816,
+      "social_spending_gdp_lag1": 6.578999996185303
+    },
+    {
+      "country": "Serbia",
+      "year": 2015,
+      "vdem_index": 0.4269999861717224,
+      "vdem_regime": 1.0,
+      "gini_coeff": 47.970001220703125,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0007200241088867,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1998,
+      "vdem_index": 0.6019999980926514,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.380001068115234,
+      "social_spending_gdp": 1.062999963760376,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 3.809000015258789
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2005,
+      "vdem_index": 0.6439999938011169,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.599998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0246800184249878,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2014,
+      "vdem_index": 0.8320000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.099998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Tunisia",
+      "year": 2004,
+      "vdem_index": 0.1889999955892563,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2017,
+      "vdem_index": 0.8450000286102295,
+      "vdem_regime": 2.0,
+      "gini_coeff": 24.139999389648438,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2002,
+      "vdem_index": 0.7730000019073486,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9959200024604797,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2006,
+      "vdem_index": 0.6389999985694885,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2018,
+      "vdem_index": 0.6729999780654907,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.689998626708984,
+      "social_spending_gdp": 3.8389999866485596,
+      "secondary_edu_enrollment": 1.0216200351715088,
+      "social_spending_gdp_lag1": 3.263000011444092
+    },
+    {
+      "country": "Seychelles",
+      "year": 1990,
+      "vdem_index": 0.2150000035762787,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Serbia",
+      "year": 2001,
+      "vdem_index": 0.5820000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2001,
+      "vdem_index": 0.5429999828338623,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9718700051307678,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2014,
+      "vdem_index": 0.8090000152587891,
+      "vdem_regime": 2.0,
+      "gini_coeff": 28.200000762939453,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 1994,
+      "vdem_index": 0.32100000977516174,
+      "vdem_regime": 0.0,
+      "gini_coeff": 29.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "South Africa",
+      "year": 2012,
+      "vdem_index": 0.7720000147819519,
+      "vdem_regime": 2.0,
+      "gini_coeff": 59.88999938964844,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Guinea-Bissau",
+      "year": 1992,
+      "vdem_index": 0.13300000131130219,
+      "vdem_regime": 0.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2012,
+      "vdem_index": 0.6489999890327454,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.029998779296875,
+      "social_spending_gdp": 2.631999969482422,
+      "secondary_edu_enrollment": 0.9998599886894226,
+      "social_spending_gdp_lag1": 7.228000164031982
+    },
+    {
+      "country": "Colombia",
+      "year": 2011,
+      "vdem_index": 0.6589999794960022,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.599998474121094,
+      "social_spending_gdp": 6.500999927520752,
+      "secondary_edu_enrollment": 1.0068999528884888,
+      "social_spending_gdp_lag1": 5.767000198364258
+    },
+    {
+      "country": "Indonesia",
+      "year": 2003,
+      "vdem_index": 0.6850000023841858,
+      "vdem_regime": 2.0,
+      "gini_coeff": 32.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0071200132369995,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Cape Verde",
+      "year": 1991,
+      "vdem_index": 0.6650000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2001,
+      "vdem_index": 0.546999990940094,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.310001373291016,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "North Macedonia",
+      "year": 1991,
+      "vdem_index": 0.2709999978542328,
+      "vdem_regime": 0.0,
+      "gini_coeff": 26.700000762939453,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Malawi",
+      "year": 2018,
+      "vdem_index": 0.5270000100135803,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.1002299785614014,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2022,
+      "vdem_index": 0.5830000042915344,
+      "vdem_regime": 2.0,
+      "gini_coeff": 43.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2004,
+      "vdem_index": 0.5429999828338623,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.29999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 1997,
+      "vdem_index": 0.7160000205039978,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.75,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 1993,
+      "vdem_index": 0.3779999911785126,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Belarus",
+      "year": 2022,
+      "vdem_index": 0.17399999499320984,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Bangladesh",
+      "year": 2008,
+      "vdem_index": 0.210999995470047,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2003,
+      "vdem_index": 0.734000027179718,
+      "vdem_regime": 2.0,
+      "gini_coeff": 55.65999984741211,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "year": 2011,
+      "vdem_index": 0.5740000009536743,
+      "vdem_regime": 2.0,
+      "gini_coeff": 33.029998779296875,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Guinea-Bissau",
+      "year": 2020,
+      "vdem_index": 0.5350000262260437,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2001,
+      "vdem_index": 0.546999990940094,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.2599983215332,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2020,
+      "vdem_index": 0.6460000276565552,
+      "vdem_regime": 2.0,
+      "gini_coeff": 40.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2001,
+      "vdem_index": 0.7879999876022339,
+      "vdem_regime": 2.0,
+      "gini_coeff": 29.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 2016,
+      "vdem_index": 0.6439999938011169,
+      "vdem_regime": 2.0,
+      "gini_coeff": 39.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "year": 1991,
+      "vdem_index": 0.3089999854564667,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Honduras",
+      "year": 1999,
+      "vdem_index": 0.5649999976158142,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Liberia",
+      "year": 2005,
+      "vdem_index": 0.27799999713897705,
+      "vdem_regime": 0.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2016,
+      "vdem_index": 0.6769999861717224,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.599998474121094,
+      "social_spending_gdp": 6.415999889373779,
+      "secondary_edu_enrollment": 1.01173996925354,
+      "social_spending_gdp_lag1": 14.147000312805176
+    },
+    {
+      "country": "Sierra Leone",
+      "year": 1990,
+      "vdem_index": 0.19499999284744263,
+      "vdem_regime": 1.0,
+      "gini_coeff": 62.900001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2003,
+      "vdem_index": 0.5659999847412109,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.310001373291016,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9814900159835815,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2021,
+      "vdem_index": 0.8190000057220459,
+      "vdem_regime": 2.0,
+      "gini_coeff": 23.31999969482422,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2012,
+      "vdem_index": 0.6489999890327454,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.38999938964844,
+      "social_spending_gdp": 2.631999969482422,
+      "secondary_edu_enrollment": 0.9998599886894226,
+      "social_spending_gdp_lag1": 7.228000164031982
+    },
+    {
+      "country": "Moldova",
+      "year": 2004,
+      "vdem_index": 0.5080000162124634,
+      "vdem_regime": 2.0,
+      "gini_coeff": 34.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0660099983215332,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2013,
+      "vdem_index": 0.6650000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.91999816894531,
+      "social_spending_gdp": 5.790999889373779,
+      "secondary_edu_enrollment": 1.0101799964904785,
+      "social_spending_gdp_lag1": 13.190999984741211
+    },
+    {
+      "country": "Mexico",
+      "year": 2000,
+      "vdem_index": 0.6710000038146973,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.86000061035156,
+      "social_spending_gdp": 4.390999794006348,
+      "secondary_edu_enrollment": 0.9522799849510193,
+      "social_spending_gdp_lag1": 3.2019999027252197
+    },
+    {
+      "country": "Taiwan",
+      "year": 1993,
+      "vdem_index": 0.32100000977516174,
+      "vdem_regime": 0.0,
+      "gini_coeff": 27.200000762939453,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Thailand",
+      "year": 2007,
+      "vdem_index": 0.18400000035762787,
+      "vdem_regime": 0.0,
+      "gini_coeff": 39.7599983215332,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0398600101470947,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2016,
+      "vdem_index": 0.6769999861717224,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.11000061035156,
+      "social_spending_gdp": 6.415999889373779,
+      "secondary_edu_enrollment": 1.01173996925354,
+      "social_spending_gdp_lag1": 14.147000312805176
+    },
+    {
+      "country": "Croatia",
+      "year": 2014,
+      "vdem_index": 0.8320000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 34.369998931884766,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "South Africa",
+      "year": 2011,
+      "vdem_index": 0.7670000195503235,
+      "vdem_regime": 2.0,
+      "gini_coeff": 69.4000015258789,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2016,
+      "vdem_index": 0.6930000185966492,
+      "vdem_regime": 2.0,
+      "gini_coeff": 32.61000061035156,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2007,
+      "vdem_index": 0.5450000166893005,
+      "vdem_regime": 2.0,
+      "gini_coeff": 41.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Belarus",
+      "year": 2016,
+      "vdem_index": 0.257999986410141,
+      "vdem_regime": 1.0,
+      "gini_coeff": 25.309999465942383,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2000,
+      "vdem_index": 0.7749999761581421,
+      "vdem_regime": 2.0,
+      "gini_coeff": 29.399999618530273,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1996,
+      "vdem_index": 0.5149999856948853,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.650001525878906,
+      "social_spending_gdp": 3.367000102996826,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 2.4019999504089355
+    },
+    {
+      "country": "Paraguay",
+      "year": 2010,
+      "vdem_index": 0.640999972820282,
+      "vdem_regime": 2.0,
+      "gini_coeff": 55.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0062899589538574,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2020,
+      "vdem_index": 0.6399999856948853,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.790000915527344,
+      "social_spending_gdp": 17.020000457763672,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 8.741000175476074
+    },
+    {
+      "country": "Colombia",
+      "year": 2006,
+      "vdem_index": 0.5680000185966492,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.630001068115234,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0458500385284424,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2009,
+      "vdem_index": 0.6460000276565552,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": 7.26200008392334,
+      "secondary_edu_enrollment": 1.0096900463104248,
+      "social_spending_gdp_lag1": 4.539999961853027
+    },
+    {
+      "country": "El Salvador",
+      "year": 2010,
+      "vdem_index": 0.6179999709129333,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Taiwan",
+      "year": 2019,
+      "vdem_index": 0.8349999785423279,
+      "vdem_regime": 2.0,
+      "gini_coeff": 30.3700008392334,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2001,
+      "vdem_index": 0.5429999828338623,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9718700051307678,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1998,
+      "vdem_index": 0.6019999980926514,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.65999984741211,
+      "social_spending_gdp": 1.062999963760376,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 3.809000015258789
+    },
+    {
+      "country": "Comoros",
+      "year": 1999,
+      "vdem_index": 0.3070000112056732,
+      "vdem_regime": 0.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Panama",
+      "year": 2011,
+      "vdem_index": 0.7480000257492065,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.20000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.006250023841858,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2003,
+      "vdem_index": 0.546999990940094,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.209999084472656,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2000,
+      "vdem_index": 0.5270000100135803,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.38999938964844,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.92781001329422,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Sierra Leone",
+      "year": 2014,
+      "vdem_index": 0.5040000081062317,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 2012,
+      "vdem_index": 0.6959999799728394,
+      "vdem_regime": 2.0,
+      "gini_coeff": 41.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0233099460601807,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2013,
+      "vdem_index": 0.6650000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.119998931884766,
+      "social_spending_gdp": 7.077000141143799,
+      "secondary_edu_enrollment": 1.0101799964904785,
+      "social_spending_gdp_lag1": 5.790999889373779
+    },
+    {
+      "country": "Mexico",
+      "year": 2004,
+      "vdem_index": 0.7070000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 44.130001068115234,
+      "social_spending_gdp": 5.953999996185303,
+      "secondary_edu_enrollment": 0.9738500118255615,
+      "social_spending_gdp_lag1": 4.021999835968018
+    },
+    {
+      "country": "Serbia",
+      "year": 2013,
+      "vdem_index": 0.5009999871253967,
+      "vdem_regime": 2.0,
+      "gini_coeff": 39.459999084472656,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2014,
+      "vdem_index": 0.8320000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 32.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "North Macedonia",
+      "year": 1998,
+      "vdem_index": 0.5090000033378601,
+      "vdem_regime": 2.0,
+      "gini_coeff": 27.100000381469727,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2018,
+      "vdem_index": 0.6669999957084656,
+      "vdem_regime": 2.0,
+      "gini_coeff": 52.40999984741211,
+      "social_spending_gdp": 13.687999725341797,
+      "secondary_edu_enrollment": 1.011430025100708,
+      "social_spending_gdp_lag1": 7.196000099182129
+    },
+    {
+      "country": "Guyana",
+      "year": 2021,
+      "vdem_index": 0.531000018119812,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2018,
+      "vdem_index": 0.6729999780654907,
+      "vdem_regime": 2.0,
+      "gini_coeff": 43.06999969482422,
+      "social_spending_gdp": 7.105000019073486,
+      "secondary_edu_enrollment": 1.0216200351715088,
+      "social_spending_gdp_lag1": 3.8389999866485596
+    },
+    {
+      "country": "Colombia",
+      "year": 2003,
+      "vdem_index": 0.5360000133514404,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.47999954223633,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2020,
+      "vdem_index": 0.6460000276565552,
+      "vdem_regime": 2.0,
+      "gini_coeff": 39.630001068115234,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2008,
+      "vdem_index": 0.6420000195503235,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.880001068115234,
+      "social_spending_gdp": 6.703999996185303,
+      "secondary_edu_enrollment": 1.0085400342941284,
+      "social_spending_gdp_lag1": 4.539999961853027
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 1994,
+      "vdem_index": 0.4259999990463257,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2017,
+      "vdem_index": 0.6759999990463257,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.09000015258789,
+      "social_spending_gdp": 6.308000087738037,
+      "secondary_edu_enrollment": 1.0103399753570557,
+      "social_spending_gdp_lag1": 14.112000465393066
+    },
+    {
+      "country": "Colombia",
+      "year": 2008,
+      "vdem_index": 0.5809999704360962,
+      "vdem_regime": 2.0,
+      "gini_coeff": 56.150001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.030310034751892,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2005,
+      "vdem_index": 0.7070000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.939998626708984,
+      "social_spending_gdp": 2.0380001068115234,
+      "secondary_edu_enrollment": 0.9794099926948547,
+      "social_spending_gdp_lag1": 6.144999980926514
+    },
+    {
+      "country": "Lesotho",
+      "year": 2016,
+      "vdem_index": 0.5759999752044678,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.1050000190734863,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Honduras",
+      "year": 1997,
+      "vdem_index": 0.5580000281333923,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2016,
+      "vdem_index": 0.6380000114440918,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.400001525878906,
+      "social_spending_gdp": 7.486999988555908,
+      "secondary_edu_enrollment": 1.013350009918213,
+      "social_spending_gdp_lag1": 4.315000057220459
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2016,
+      "vdem_index": 0.5559999942779541,
+      "vdem_regime": 2.0,
+      "gini_coeff": 43.91999816894531,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9788500070571899,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2021,
+      "vdem_index": 0.6460000276565552,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.88999938964844,
+      "social_spending_gdp": 15.152999877929688,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 7.876999855041504
+    },
+    {
+      "country": "Panama",
+      "year": 2002,
+      "vdem_index": 0.734000027179718,
+      "vdem_regime": 2.0,
+      "gini_coeff": 53.79999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0105299949645996,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2004,
+      "vdem_index": 0.5400000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.29999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Seychelles",
+      "year": 2021,
+      "vdem_index": 0.7120000123977661,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2007,
+      "vdem_index": 0.6309999823570251,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.5,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.027459979057312,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2021,
+      "vdem_index": 0.6460000276565552,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.5,
+      "social_spending_gdp": 6.7179999351501465,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 15.152999877929688
+    },
+    {
+      "country": "Colombia",
+      "year": 2014,
+      "vdem_index": 0.675000011920929,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.099998474121094,
+      "social_spending_gdp": 14.111000061035156,
+      "secondary_edu_enrollment": 1.011780023574829,
+      "social_spending_gdp_lag1": 7.50600004196167
+    },
+    {
+      "country": "Serbia",
+      "year": 2018,
+      "vdem_index": 0.35899999737739563,
+      "vdem_regime": 1.0,
+      "gini_coeff": 35.599998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9973400235176086,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2016,
+      "vdem_index": 0.6769999861717224,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.099998474121094,
+      "social_spending_gdp": 14.147000312805176,
+      "secondary_edu_enrollment": 1.01173996925354,
+      "social_spending_gdp_lag1": 7.372000217437744
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "year": 2017,
+      "vdem_index": 0.5440000295639038,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mongolia",
+      "year": 2000,
+      "vdem_index": 0.6769999861717224,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.1773300170898438,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Nigeria",
+      "year": 2014,
+      "vdem_index": 0.5360000133514404,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2014,
+      "vdem_index": 0.675000011920929,
+      "vdem_regime": 2.0,
+      "gini_coeff": 49.189998626708984,
+      "social_spending_gdp": 14.111000061035156,
+      "secondary_edu_enrollment": 1.011780023574829,
+      "social_spending_gdp_lag1": 7.50600004196167
+    },
+    {
+      "country": "Thailand",
+      "year": 2015,
+      "vdem_index": 0.14900000393390656,
+      "vdem_regime": 0.0,
+      "gini_coeff": 33.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "El Salvador",
+      "year": 2015,
+      "vdem_index": 0.6589999794960022,
+      "vdem_regime": 2.0,
+      "gini_coeff": 40.54999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9904599785804749,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "year": 1993,
+      "vdem_index": 0.2549999952316284,
+      "vdem_regime": 0.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2010,
+      "vdem_index": 0.6510000228881836,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.209999084472656,
+      "social_spending_gdp": 2.5480000972747803,
+      "secondary_edu_enrollment": 1.0050899982452393,
+      "social_spending_gdp_lag1": 7.3420000076293945
+    },
+    {
+      "country": "Indonesia",
+      "year": 2017,
+      "vdem_index": 0.6309999823570251,
+      "vdem_regime": 2.0,
+      "gini_coeff": 32.04999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Honduras",
+      "year": 2013,
+      "vdem_index": 0.4180000126361847,
+      "vdem_regime": 1.0,
+      "gini_coeff": 49.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.042549967765808,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Madagascar",
+      "year": 1999,
+      "vdem_index": 0.5130000114440918,
+      "vdem_regime": 2.0,
+      "gini_coeff": 38.61000061035156,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Indonesia",
+      "year": 2015,
+      "vdem_index": 0.6579999923706055,
+      "vdem_regime": 2.0,
+      "gini_coeff": 40.400001525878906,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Serbia",
+      "year": 2005,
+      "vdem_index": 0.6370000243186951,
+      "vdem_regime": 2.0,
+      "gini_coeff": 31.299999237060547,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Croatia",
+      "year": 2010,
+      "vdem_index": 0.847000002861023,
+      "vdem_regime": 2.0,
+      "gini_coeff": 32.560001373291016,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Georgia",
+      "year": 2010,
+      "vdem_index": 0.5009999871253967,
+      "vdem_regime": 2.0,
+      "gini_coeff": 43.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2005,
+      "vdem_index": 0.7070000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.130001068115234,
+      "social_spending_gdp": 4.0960001945495605,
+      "secondary_edu_enrollment": 0.9794099926948547,
+      "social_spending_gdp_lag1": 2.0380001068115234
+    },
+    {
+      "country": "Guatemala",
+      "year": 2011,
+      "vdem_index": 0.5910000205039978,
+      "vdem_regime": 2.0,
+      "gini_coeff": 54.04999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9084200263023376,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Cape Verde",
+      "year": 1990,
+      "vdem_index": 0.33399999141693115,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Guatemala",
+      "year": 2014,
+      "vdem_index": 0.5849999785423279,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.2599983215332,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9072800278663635,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Moldova",
+      "year": 2002,
+      "vdem_index": 0.5040000081062317,
+      "vdem_regime": 2.0,
+      "gini_coeff": 35.849998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0414999723434448,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2008,
+      "vdem_index": 0.6420000195503235,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.70000076293945,
+      "social_spending_gdp": 2.1519999504089355,
+      "secondary_edu_enrollment": 1.0085400342941284,
+      "social_spending_gdp_lag1": 6.703999996185303
+    },
+    {
+      "country": "Nigeria",
+      "year": 2010,
+      "vdem_index": 0.4320000112056732,
+      "vdem_regime": 1.0,
+      "gini_coeff": 48.79999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2012,
+      "vdem_index": 0.6570000052452087,
+      "vdem_regime": 2.0,
+      "gini_coeff": 46.29999923706055,
+      "social_spending_gdp": 12.625,
+      "secondary_edu_enrollment": 1.0103399753570557,
+      "social_spending_gdp_lag1": 6.540999889373779
+    },
+    {
+      "country": "Comoros",
+      "year": 2010,
+      "vdem_index": 0.4449999928474426,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "South Africa",
+      "year": 2017,
+      "vdem_index": 0.7360000014305115,
+      "vdem_regime": 2.0,
+      "gini_coeff": 63.63999938964844,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9323899745941162,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 1994,
+      "vdem_index": 0.5220000147819519,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.099998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9412400126457214,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Paraguay",
+      "year": 2009,
+      "vdem_index": 0.6340000033378601,
+      "vdem_regime": 2.0,
+      "gini_coeff": 51.15999984741211,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9989200234413147,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 1999,
+      "vdem_index": 0.609000027179718,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": 3.131999969482422,
+      "secondary_edu_enrollment": 0.9473299980163574,
+      "social_spending_gdp_lag1": 1.1330000162124634
+    },
+    {
+      "country": "Mexico",
+      "year": 2002,
+      "vdem_index": 0.6909999847412109,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.09000015258789,
+      "social_spending_gdp": 1.8819999694824219,
+      "secondary_edu_enrollment": 0.963890016078949,
+      "social_spending_gdp_lag1": 5.3460001945495605
+    },
+    {
+      "country": "El Salvador",
+      "year": 2009,
+      "vdem_index": 0.6010000109672546,
+      "vdem_regime": 2.0,
+      "gini_coeff": 41.79999923706055,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9794300198554993,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Liberia",
+      "year": 2018,
+      "vdem_index": 0.625,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Madagascar",
+      "year": 2000,
+      "vdem_index": 0.5070000290870667,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Sri Lanka",
+      "year": 1990,
+      "vdem_index": 0.4429999887943268,
+      "vdem_regime": 1.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2002,
+      "vdem_index": 0.6909999847412109,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.599998474121094,
+      "social_spending_gdp": 1.8819999694824219,
+      "secondary_edu_enrollment": 0.963890016078949,
+      "social_spending_gdp_lag1": 5.3460001945495605
+    },
+    {
+      "country": "El Salvador",
+      "year": 2001,
+      "vdem_index": 0.5370000004768372,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9409700036048889,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2010,
+      "vdem_index": 0.6510000228881836,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.650001525878906,
+      "social_spending_gdp": 7.3420000076293945,
+      "secondary_edu_enrollment": 1.0050899982452393,
+      "social_spending_gdp_lag1": 4.783999919891357
+    },
+    {
+      "country": "Moldova",
+      "year": 2022,
+      "vdem_index": 0.7630000114440918,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Thailand",
+      "year": 2017,
+      "vdem_index": 0.1469999998807907,
+      "vdem_regime": 0.0,
+      "gini_coeff": 34.099998474121094,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Nigeria",
+      "year": 2010,
+      "vdem_index": 0.4320000112056732,
+      "vdem_regime": 1.0,
+      "gini_coeff": 44.70000076293945,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Colombia",
+      "year": 2013,
+      "vdem_index": 0.6650000214576721,
+      "vdem_regime": 2.0,
+      "gini_coeff": 50.54999923706055,
+      "social_spending_gdp": 7.077000141143799,
+      "secondary_edu_enrollment": 1.0101799964904785,
+      "social_spending_gdp_lag1": 5.790999889373779
+    },
+    {
+      "country": "Colombia",
+      "year": 2010,
+      "vdem_index": 0.621999979019165,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.0,
+      "social_spending_gdp": 12.991999626159668,
+      "secondary_edu_enrollment": 1.012369990348816,
+      "social_spending_gdp_lag1": 6.578999996185303
+    },
+    {
+      "country": "Taiwan",
+      "year": 2007,
+      "vdem_index": 0.7770000100135803,
+      "vdem_regime": 2.0,
+      "gini_coeff": 30.450000762939453,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2008,
+      "vdem_index": 0.6330000162124634,
+      "vdem_regime": 2.0,
+      "gini_coeff": 55.0,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 1.0233800411224365,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2014,
+      "vdem_index": 0.6209999918937683,
+      "vdem_regime": 2.0,
+      "gini_coeff": 45.790000915527344,
+      "social_spending_gdp": 7.552000045776367,
+      "secondary_edu_enrollment": 1.0035799741744995,
+      "social_spending_gdp_lag1": 4.439000129699707
+    },
+    {
+      "country": "Dominican Republic",
+      "year": 2010,
+      "vdem_index": 0.6200000047683716,
+      "vdem_regime": 2.0,
+      "gini_coeff": 47.33000183105469,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9678999781608582,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Mexico",
+      "year": 2005,
+      "vdem_index": 0.7070000171661377,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.209999084472656,
+      "social_spending_gdp": 6.144999980926514,
+      "secondary_edu_enrollment": 0.9794099926948547,
+      "social_spending_gdp_lag1": 4.0960001945495605
+    },
+    {
+      "country": "Mexico",
+      "year": 1998,
+      "vdem_index": 0.6019999980926514,
+      "vdem_regime": 2.0,
+      "gini_coeff": 48.72999954223633,
+      "social_spending_gdp": 1.062999963760376,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": 3.809000015258789
+    },
+    {
+      "country": "Belarus",
+      "year": 1996,
+      "vdem_index": 0.44699999690055847,
+      "vdem_regime": 1.0,
+      "gini_coeff": 30.799999237060547,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": NaN,
+      "social_spending_gdp_lag1": NaN
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "year": 2008,
+      "vdem_index": 0.6600000262260437,
+      "vdem_regime": 2.0,
+      "gini_coeff": NaN,
+      "social_spending_gdp": NaN,
+      "secondary_edu_enrollment": 0.9513099789619446,
+      "social_spending_gdp_lag1": NaN
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "datasets": [
+    {
+      "dataset": "owid_welfare_democracy_panel",
+      "examples": [
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 1990, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 0.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.1889999955892563",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 1991, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.3720000088214874",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 1992, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.4230000078678131",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 1993, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.42399999499320984",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 1994, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.4230000078678131",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 1995, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.4320000112056732",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 1996, \"gini_coeff\": 27.010000228881836, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.3869999945163727",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 1997, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.3720000088214874",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 1998, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.39399999380111694",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 1999, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.4020000100135803",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2000, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 0.9896699786186218, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.40700000524520874",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2001, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.0000799894332886, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.4399999976158142",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2002, \"gini_coeff\": 31.739999771118164, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.48399999737739563",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2003, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.49000000953674316",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2004, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.49000000953674316",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2005, \"gini_coeff\": 30.600000381469727, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5199999809265137",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2006, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5509999990463257",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2007, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5559999942779541",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2008, \"gini_coeff\": 29.979999542236328, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5519999861717224",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2009, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5529999732971191",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2010, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5509999990463257",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2011, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5509999990463257",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2012, \"gini_coeff\": 28.959999084472656, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.546999990940094",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2013, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 0.9964900016784668, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5239999890327454",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2014, \"gini_coeff\": 34.599998474121094, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 0.9986900091171265, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5270000100135803",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2015, \"gini_coeff\": 32.75, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.014050006866455, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5270000100135803",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2016, \"gini_coeff\": 33.7400016784668, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.0164899826049805, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5289999842643738",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2017, \"gini_coeff\": 36.79999923706055, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.0348999500274658, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5400000214576721",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2017, \"gini_coeff\": 33.060001373291016, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.0348999500274658, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5400000214576721",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2017, \"gini_coeff\": 38.56999969482422, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.0348999500274658, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5400000214576721",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2018, \"gini_coeff\": 35.400001525878906, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.049239993095398, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5270000100135803",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2018, \"gini_coeff\": 30.149999618530273, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.049239993095398, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5270000100135803",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2018, \"gini_coeff\": 37.099998474121094, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.049239993095398, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5270000100135803",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2019, \"gini_coeff\": 34.29999923706055, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.046679973602295, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5170000195503235",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2019, \"gini_coeff\": 30.1200008392334, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.046679973602295, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5170000195503235",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2019, \"gini_coeff\": 35.9900016784668, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": 1.046679973602295, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5170000195503235",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2020, \"gini_coeff\": 33.20000076293945, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5360000133514404",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2020, \"gini_coeff\": 29.420000076293945, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5360000133514404",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2021, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5299999713897705",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Albania\", \"year\": 2022, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5230000019073486",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Bangladesh\", \"year\": 1990, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.3059999942779541",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Bangladesh\", \"year\": 1991, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 1.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.4909999966621399",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Bangladesh\", \"year\": 1992, \"gini_coeff\": 37.0, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5170000195503235",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Bangladesh\", \"year\": 1992, \"gini_coeff\": 27.56999969482422, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5170000195503235",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Bangladesh\", \"year\": 1993, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5149999856948853",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Bangladesh\", \"year\": 1994, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5149999856948853",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Bangladesh\", \"year\": 1995, \"gini_coeff\": NaN, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5149999856948853",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Bangladesh\", \"year\": 1996, \"gini_coeff\": 38.70000076293945, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5040000081062317",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Bangladesh\", \"year\": 1996, \"gini_coeff\": 43.0, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5040000081062317",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        },
+        {
+          "input": "{\"country\": \"Bangladesh\", \"year\": 1996, \"gini_coeff\": 32.939998626708984, \"social_spending_gdp\": NaN, \"secondary_edu_enrollment\": NaN, \"vdem_regime\": 2.0, \"social_spending_gdp_lag1\": NaN}",
+          "output": "0.5040000081062317",
+          "metadata_fold": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_features": 6
+        }
+      ]
+    }
+  ]
+}
